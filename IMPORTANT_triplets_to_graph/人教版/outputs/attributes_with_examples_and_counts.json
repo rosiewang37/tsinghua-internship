@@ -1,0 +1,2012 @@
+[
+  {
+    "attribute": "是",
+    "count": 6,
+    "example": "细胞 是 生物体结构和功能的基本单位"
+  },
+  {
+    "attribute": "原产地",
+    "count": 3,
+    "example": "弥猴桃 原产地 我国"
+  },
+  {
+    "attribute": "疗效",
+    "count": 1,
+    "example": "药物 疗效 确切"
+  },
+  {
+    "attribute": "达",
+    "count": 1,
+    "example": "我国人工林面积 达 8000万公顷"
+  },
+  {
+    "attribute": "主要成分",
+    "count": 4,
+    "example": "清洁能源沼气 主要成分 甲烷"
+  },
+  {
+    "attribute": "处理条件",
+    "count": 2,
+    "example": "甲组 处理条件 无菌条件"
+  },
+  {
+    "attribute": "施行时间",
+    "count": 1,
+    "example": "《中华人民共和国渔业法》 施行时间 1986年"
+  },
+  {
+    "attribute": "生活地点",
+    "count": 3,
+    "example": "幼体 生活地点 水中"
+  },
+  {
+    "attribute": "抵抗能力",
+    "count": 1,
+    "example": "芽孢 抵抗能力 较强"
+  },
+  {
+    "attribute": "粗细",
+    "count": 2,
+    "example": "接穗 粗细 一般粗"
+  },
+  {
+    "attribute": "死亡时间",
+    "count": 4,
+    "example": "松毛虫 死亡时间 三天左右"
+  },
+  {
+    "attribute": "传染源",
+    "count": 1,
+    "example": "肺鼠疫 传染源 杆状细菌"
+  },
+  {
+    "attribute": "流传范围",
+    "count": 1,
+    "example": "《本草纲目》 流传范围 全世界"
+  },
+  {
+    "attribute": "表现",
+    "count": 3,
+    "example": "基因杂合 表现 无病"
+  },
+  {
+    "attribute": "笔记数量",
+    "count": 1,
+    "example": "李时珍 笔记数量 几百万字"
+  },
+  {
+    "attribute": "是否休眠",
+    "count": 1,
+    "example": "胚 是否休眠 已度过休眠期"
+  },
+  {
+    "attribute": "寿命为",
+    "count": 1,
+    "example": "成熟的红细胞 寿命为 120天左右"
+  },
+  {
+    "attribute": "向日性",
+    "count": 1,
+    "example": "葵花 向日性 向太阳"
+  },
+  {
+    "attribute": "储存条件",
+    "count": 1,
+    "example": "酸奶 储存条件 低温"
+  },
+  {
+    "attribute": "温度",
+    "count": 3,
+    "example": "培养设备 温度 可控"
+  },
+  {
+    "attribute": "个体",
+    "count": 2,
+    "example": "细菌 个体 微小"
+  },
+  {
+    "attribute": "种皮特征",
+    "count": 2,
+    "example": "豌豆 种皮特征 光滑"
+  },
+  {
+    "attribute": "功能是",
+    "count": 20,
+    "example": "趋性 功能是 适应环境"
+  },
+  {
+    "attribute": "发育",
+    "count": 1,
+    "example": "卵巢 发育 不完善"
+  },
+  {
+    "attribute": "存在状态",
+    "count": 1,
+    "example": "艾滋病疫苗 存在状态 不可临床使用"
+  },
+  {
+    "attribute": "存在形式",
+    "count": 2,
+    "example": "能量 存在形式 化学能"
+  },
+  {
+    "attribute": "传播途径",
+    "count": 8,
+    "example": "肺鼠疫 传播途径 空气"
+  },
+  {
+    "attribute": "总量",
+    "count": 1,
+    "example": "能量 总量 不变"
+  },
+  {
+    "attribute": "携带该致病基因的可能性大",
+    "count": 1,
+    "example": "后代 携带该致病基因的可能性大 家族中有隐性遗传病时"
+  },
+  {
+    "attribute": "体温",
+    "count": 1,
+    "example": "鸟 体温 高而恒定"
+  },
+  {
+    "attribute": "繁殖方式",
+    "count": 8,
+    "example": "鳄类 繁殖方式 产卵"
+  },
+  {
+    "attribute": "处于",
+    "count": 2,
+    "example": "亲鱼 处于 产卵期"
+  },
+  {
+    "attribute": "容量为",
+    "count": 1,
+    "example": "锥形瓶 容量为 50毫升"
+  },
+  {
+    "attribute": "白天活动",
+    "count": 3,
+    "example": "小鼠 白天活动 睡觉"
+  },
+  {
+    "attribute": "分布",
+    "count": 8,
+    "example": "藻类 分布 水中"
+  },
+  {
+    "attribute": "细胞壁",
+    "count": 1,
+    "example": "芽孢 细胞壁 厚"
+  },
+  {
+    "attribute": "染色体数目",
+    "count": 2,
+    "example": "体细胞 染色体数目 23对"
+  },
+  {
+    "attribute": "开花特点",
+    "count": 2,
+    "example": "月季 开花特点 从春到秋开花不绝"
+  },
+  {
+    "attribute": "处理方式",
+    "count": 2,
+    "example": "甲组 处理方式 灭菌处理"
+  },
+  {
+    "attribute": "基因数目",
+    "count": 1,
+    "example": "体细胞 基因数目 不变"
+  },
+  {
+    "attribute": "储存",
+    "count": 1,
+    "example": "叶绿体 储存 能量"
+  },
+  {
+    "attribute": "眼点数量",
+    "count": 1,
+    "example": "涡虫 眼点数量 两个"
+  },
+  {
+    "attribute": "细胞壁厚度",
+    "count": 1,
+    "example": "机械组织细胞 细胞壁厚度 厚"
+  },
+  {
+    "attribute": "体表覆盖",
+    "count": 2,
+    "example": "爬行动物 体表覆盖 角质鳞片"
+  },
+  {
+    "attribute": "用途",
+    "count": 4,
+    "example": "鳖 用途 食用"
+  },
+  {
+    "attribute": "观测距离",
+    "count": 1,
+    "example": "全方位可转动射电望远镜 观测距离 100多亿光年"
+  },
+  {
+    "attribute": "亲缘关系",
+    "count": 2,
+    "example": "分类单位 亲缘关系 远"
+  },
+  {
+    "attribute": "研究领域",
+    "count": 1,
+    "example": "袁隆平先生 研究领域 农作物育种研究"
+  },
+  {
+    "attribute": "被尊称为",
+    "count": 1,
+    "example": "袁隆平院士 被尊称为 杂交水稻之父"
+  },
+  {
+    "attribute": "生活时间",
+    "count": 1,
+    "example": "动物 生活时间 约1.31亿年前"
+  },
+  {
+    "attribute": "背面颜色",
+    "count": 2,
+    "example": "花鲢 背面颜色 暗黑色"
+  },
+  {
+    "attribute": "长度",
+    "count": 8,
+    "example": "背鳍 长度 较长"
+  },
+  {
+    "attribute": "结荚位置",
+    "count": 1,
+    "example": "落花生 结荚位置 地下"
+  },
+  {
+    "attribute": "形状",
+    "count": 51,
+    "example": "小室 形状 中空的"
+  },
+  {
+    "attribute": "排列",
+    "count": 1,
+    "example": "羽毛 排列 整齐"
+  },
+  {
+    "attribute": "种类数量",
+    "count": 1,
+    "example": "鸟 种类数量 最多"
+  },
+  {
+    "attribute": "汁液",
+    "count": 1,
+    "example": "果实 汁液 多"
+  },
+  {
+    "attribute": "味道",
+    "count": 4,
+    "example": "果实 味道 美"
+  },
+  {
+    "attribute": "湿度",
+    "count": 2,
+    "example": "皮肤 湿度 干燥"
+  },
+  {
+    "attribute": "原分布区域",
+    "count": 1,
+    "example": "野马 原分布区域 我国新疆北部"
+  },
+  {
+    "attribute": "体表",
+    "count": 1,
+    "example": "棘皮动物 体表 粗糙"
+  },
+  {
+    "attribute": "数值为",
+    "count": 2,
+    "example": "降水量 数值为 1950毫米/年"
+  },
+  {
+    "attribute": "繁育方法",
+    "count": 4,
+    "example": "柿树 繁育方法 嫁接"
+  },
+  {
+    "attribute": "透明度",
+    "count": 3,
+    "example": "内表皮 透明度 透明"
+  },
+  {
+    "attribute": "吸收的水量",
+    "count": 1,
+    "example": "玉米 吸收的水量 超过200千克"
+  },
+  {
+    "attribute": "身体",
+    "count": 3,
+    "example": "软体动物 身体 柔软"
+  },
+  {
+    "attribute": "水源",
+    "count": 1,
+    "example": "产卵场所 水源 充沛"
+  },
+  {
+    "attribute": "能量来源",
+    "count": 1,
+    "example": "叶羊 能量来源 阳光"
+  },
+  {
+    "attribute": "体积为",
+    "count": 1,
+    "example": "水 体积为 30毫升"
+  },
+  {
+    "attribute": "树高",
+    "count": 2,
+    "example": "水杉 树高 50米"
+  },
+  {
+    "attribute": "特点",
+    "count": 1,
+    "example": "骨骼系统 特点 轻而坚固"
+  },
+  {
+    "attribute": "呼吸器官",
+    "count": 6,
+    "example": "幼体 呼吸器官 鳃"
+  },
+  {
+    "attribute": "形态为",
+    "count": 3,
+    "example": "扁形动物 形态为 背腹扁平"
+  },
+  {
+    "attribute": "呼吸方式",
+    "count": 2,
+    "example": "蝌蚪 呼吸方式 鳃"
+  },
+  {
+    "attribute": "结构",
+    "count": 12,
+    "example": "最早的显微镜 结构 简单"
+  },
+  {
+    "attribute": "伴随",
+    "count": 1,
+    "example": "苯内酮尿症 伴随 智力障碍"
+  },
+  {
+    "attribute": "计算方式",
+    "count": 1,
+    "example": "实验结果 计算方式 平均值"
+  },
+  {
+    "attribute": "结构特征",
+    "count": 2,
+    "example": "骨骼 结构特征 中空"
+  },
+  {
+    "attribute": "质量",
+    "count": 1,
+    "example": "人工心脏 质量 90克"
+  },
+  {
+    "attribute": "形状为",
+    "count": 26,
+    "example": "叶 形状为 羽状"
+  },
+  {
+    "attribute": "种类",
+    "count": 1,
+    "example": "微生物 种类 庞杂"
+  },
+  {
+    "attribute": "踪迹",
+    "count": 1,
+    "example": "白暨豚 踪迹 难寻"
+  },
+  {
+    "attribute": "可溶于",
+    "count": 1,
+    "example": "氧气 可溶于 黏液"
+  },
+  {
+    "attribute": "灭绝地点",
+    "count": 1,
+    "example": "麋鹿 灭绝地点 我国本土"
+  },
+  {
+    "attribute": "储存量",
+    "count": 1,
+    "example": "碳 储存量 1.15万亿吨"
+  },
+  {
+    "attribute": "物理特性",
+    "count": 1,
+    "example": "酒精 物理特性 易燃"
+  },
+  {
+    "attribute": "发育环境",
+    "count": 1,
+    "example": "青蛙 发育环境 水中"
+  },
+  {
+    "attribute": "被称为",
+    "count": 1,
+    "example": "林巧稚 被称为 万婴之母"
+  },
+  {
+    "attribute": "数量为",
+    "count": 23,
+    "example": "水中的溶解氧 数量为 空气中的1/30"
+  },
+  {
+    "attribute": "颜色变化",
+    "count": 1,
+    "example": "BTB溶液 颜色变化 遇二氧化碳后由蓝色变为黄色"
+  },
+  {
+    "attribute": "灭绝时间",
+    "count": 1,
+    "example": "麋鹿 灭绝时间 1900年"
+  },
+  {
+    "attribute": "充满",
+    "count": 1,
+    "example": "心脏 充满 血液"
+  },
+  {
+    "attribute": "加热方式",
+    "count": 1,
+    "example": "酒精 加热方式 水浴加热"
+  },
+  {
+    "attribute": "散失形式",
+    "count": 1,
+    "example": "能量 散失形式 热量"
+  },
+  {
+    "attribute": "喷出的距离",
+    "count": 2,
+    "example": "咳嗽 喷出的距离 2米以外"
+  },
+  {
+    "attribute": "淀粉年产量",
+    "count": 1,
+    "example": "生物反应器 淀粉年产量 3300多平方米玉米田的淀粉年产量"
+  },
+  {
+    "attribute": "栖息位置",
+    "count": 1,
+    "example": "猕猴 栖息位置 树"
+  },
+  {
+    "attribute": "均等性",
+    "count": 1,
+    "example": "生男生女的机会 均等性 均等"
+  },
+  {
+    "attribute": "分类数量",
+    "count": 1,
+    "example": "草部 分类数量 11类"
+  },
+  {
+    "attribute": "运动器官",
+    "count": 2,
+    "example": "扁形动物 运动器官 刚毛"
+  },
+  {
+    "attribute": "抵抗不良环境的能力",
+    "count": 1,
+    "example": "幼体 抵抗不良环境的能力 差"
+  },
+  {
+    "attribute": "消化能力",
+    "count": 1,
+    "example": "鸟 消化能力 强"
+  },
+  {
+    "attribute": "尝试次数",
+    "count": 1,
+    "example": "蚯蚓 尝试次数 200次"
+  },
+  {
+    "attribute": "例子",
+    "count": 1,
+    "example": "异常细胞 例子 肿瘤细胞"
+  },
+  {
+    "attribute": "眶间部",
+    "count": 2,
+    "example": "郊狠 眶间部 显著隆起"
+  },
+  {
+    "attribute": "杀虫力",
+    "count": 1,
+    "example": "白僵菌 杀虫力 强"
+  },
+  {
+    "attribute": "气体交换能力",
+    "count": 2,
+    "example": "蜥蜴肺 气体交换能力 较强"
+  },
+  {
+    "attribute": "效率",
+    "count": 1,
+    "example": "血液循环系统 效率 高"
+  },
+  {
+    "attribute": "适应环境",
+    "count": 1,
+    "example": "种子植物 适应环境 陆地环境"
+  },
+  {
+    "attribute": "含油量",
+    "count": 1,
+    "example": "小花生 含油量 多"
+  },
+  {
+    "attribute": "总性能排名",
+    "count": 2,
+    "example": "全方位可转动射电望远镜 总性能排名 全球第四"
+  },
+  {
+    "attribute": "直径为",
+    "count": 1,
+    "example": "小行星 直径为 近10千米"
+  },
+  {
+    "attribute": "出版年份",
+    "count": 1,
+    "example": "显微图谱 出版年份 1665年"
+  },
+  {
+    "attribute": "需要量",
+    "count": 1,
+    "example": "无机盐 需要量 极小"
+  },
+  {
+    "attribute": "初期湿度要求",
+    "count": 1,
+    "example": "鸡卵的人工孵化 初期湿度要求 55%到65%"
+  },
+  {
+    "attribute": "完成时间",
+    "count": 1,
+    "example": "水稻基因组的测序工作 完成时间 2002年"
+  },
+  {
+    "attribute": "血液颜色",
+    "count": 3,
+    "example": "毛细血管出血 血液颜色 红色"
+  },
+  {
+    "attribute": "运动能力",
+    "count": 1,
+    "example": "哺乳动物 运动能力 很强"
+  },
+  {
+    "attribute": "含水量",
+    "count": 1,
+    "example": "芽孢 含水量 少"
+  },
+  {
+    "attribute": "分节",
+    "count": 2,
+    "example": "触角 分节 分节"
+  },
+  {
+    "attribute": "位于",
+    "count": 197,
+    "example": "小室 位于 软木切片"
+  },
+  {
+    "attribute": "主要食物",
+    "count": 3,
+    "example": "长江江豚 主要食物 鱼"
+  },
+  {
+    "attribute": "持续时间",
+    "count": 2,
+    "example": "潜伏期 持续时间 数月"
+  },
+  {
+    "attribute": "身份",
+    "count": 1,
+    "example": "达尔文 身份 博物学者"
+  },
+  {
+    "attribute": "生活环境",
+    "count": 2,
+    "example": "鱼 生活环境 水中"
+  },
+  {
+    "attribute": "症状",
+    "count": 7,
+    "example": "尘肺 症状 胸闷"
+  },
+  {
+    "attribute": "流动方式",
+    "count": 1,
+    "example": "血液 流动方式 循环"
+  },
+  {
+    "attribute": "特有的裸子植物数量",
+    "count": 1,
+    "example": "我国 特有的裸子植物数量 100多种"
+  },
+  {
+    "attribute": "频率",
+    "count": 2,
+    "example": "翻蛋 频率 每日2-3次"
+  },
+  {
+    "attribute": "峰值时间",
+    "count": 1,
+    "example": "二氧化碳排放 峰值时间 2030年前"
+  },
+  {
+    "attribute": "形成时间",
+    "count": 2,
+    "example": "地球 形成时间 46亿年前"
+  },
+  {
+    "attribute": "等级的数量",
+    "count": 1,
+    "example": "分类单位 等级的数量 7个"
+  },
+  {
+    "attribute": "遗传性",
+    "count": 1,
+    "example": "变异 遗传性 遗传的"
+  },
+  {
+    "attribute": "体重增加量",
+    "count": 1,
+    "example": "孕妇 体重增加量 12.5千克"
+  },
+  {
+    "attribute": "优先享有",
+    "count": 2,
+    "example": "首领雄狒狒 优先享有 食物"
+  },
+  {
+    "attribute": "主要栖息地",
+    "count": 1,
+    "example": "微生物 主要栖息地 土壤"
+  },
+  {
+    "attribute": "别称",
+    "count": 1,
+    "example": "水杉 别称 活化石"
+  },
+  {
+    "attribute": "测量单位",
+    "count": 1,
+    "example": "果实的长轴 测量单位 毫米"
+  },
+  {
+    "attribute": "含有水的数量",
+    "count": 1,
+    "example": "玉米 含有水的数量 不到2千克"
+  },
+  {
+    "attribute": "危害程度",
+    "count": 1,
+    "example": "高致病性禽流感 危害程度 大"
+  },
+  {
+    "attribute": "出现的机会增加",
+    "count": 1,
+    "example": "隐性遗传病 出现的机会增加 血缘关系的后代再婚配生育时"
+  },
+  {
+    "attribute": "身体结构",
+    "count": 3,
+    "example": "扁形动物 身体结构 分节"
+  },
+  {
+    "attribute": "出生年份",
+    "count": 2,
+    "example": "小羊多莉 出生年份 1996年"
+  },
+  {
+    "attribute": "基础",
+    "count": 1,
+    "example": "人体结构和生理功能 基础 健康"
+  },
+  {
+    "attribute": "适应性",
+    "count": 1,
+    "example": "细菌 适应性 强"
+  },
+  {
+    "attribute": "保护状态",
+    "count": 1,
+    "example": "白暨豚 保护状态 珍稀"
+  },
+  {
+    "attribute": "最大树高",
+    "count": 1,
+    "example": "银杏 最大树高 40米"
+  },
+  {
+    "attribute": "无菌状态",
+    "count": 1,
+    "example": "棉棒 无菌状态 无菌"
+  },
+  {
+    "attribute": "特有性",
+    "count": 4,
+    "example": "银杏 特有性 我国"
+  },
+  {
+    "attribute": "饲养难度",
+    "count": 1,
+    "example": "蚕 饲养难度 容易"
+  },
+  {
+    "attribute": "生存时间",
+    "count": 2,
+    "example": "白暨豚 生存时间 两千多万年"
+  },
+  {
+    "attribute": "遇碘反应",
+    "count": 2,
+    "example": "淀粉 遇碘反应 变蓝"
+  },
+  {
+    "attribute": "目的",
+    "count": 2,
+    "example": "人类基因组计划 目的 测定人类23对染色体的DNA分子中的全部碱基序列"
+  },
+  {
+    "attribute": "活性",
+    "count": 1,
+    "example": "胚 活性 活的"
+  },
+  {
+    "attribute": "个体大小",
+    "count": 1,
+    "example": "病毒 个体大小 很小"
+  },
+  {
+    "attribute": "运动方向",
+    "count": 1,
+    "example": "纤毛 运动方向 咽喉方向"
+  },
+  {
+    "attribute": "总表面积",
+    "count": 1,
+    "example": "根 总表面积 茎和叶总表面积的130倍"
+  },
+  {
+    "attribute": "旧称",
+    "count": 1,
+    "example": "蓝细菌 旧称 蓝藻"
+  },
+  {
+    "attribute": "受精场所",
+    "count": 1,
+    "example": "精子和卵细胞 受精场所 水"
+  },
+  {
+    "attribute": "细胞间质",
+    "count": 1,
+    "example": "筋 细胞间质 多"
+  },
+  {
+    "attribute": "色彩",
+    "count": 1,
+    "example": "许多植物的花 色彩 艳丽"
+  },
+  {
+    "attribute": "栖息地",
+    "count": 10,
+    "example": "花鲢 栖息地 水体的中上层"
+  },
+  {
+    "attribute": "繁育状态",
+    "count": 1,
+    "example": "麋鹿 繁育状态 成功"
+  },
+  {
+    "attribute": "完善程度",
+    "count": 1,
+    "example": "血液循环系统 完善程度 完善"
+  },
+  {
+    "attribute": "细胞间隙",
+    "count": 1,
+    "example": "筋 细胞间隙 大"
+  },
+  {
+    "attribute": "不能飞行",
+    "count": 2,
+    "example": "驼鸟 不能飞行 飞行"
+  },
+  {
+    "attribute": "光源",
+    "count": 3,
+    "example": "单目显微镜 光源 可见光"
+  },
+  {
+    "attribute": "阶段",
+    "count": 1,
+    "example": "急性早幼粒细胞白血病 阶段 晚期"
+  },
+  {
+    "attribute": "数值",
+    "count": 3,
+    "example": "光源亮度 数值 最低"
+  },
+  {
+    "attribute": "发育状态",
+    "count": 2,
+    "example": "胎儿 发育状态 成熟"
+  },
+  {
+    "attribute": "发达程度",
+    "count": 4,
+    "example": "根系 发达程度 不发达"
+  },
+  {
+    "attribute": "排出途径",
+    "count": 1,
+    "example": "虫卵 排出途径 粪便"
+  },
+  {
+    "attribute": "不包含",
+    "count": 1,
+    "example": "地球 不包含 生命"
+  },
+  {
+    "attribute": "生活周期",
+    "count": 1,
+    "example": "秀丽隐杆线虫 生活周期 短"
+  },
+  {
+    "attribute": "定义",
+    "count": 315,
+    "example": "生物学 定义 研究生命现象和生命活动规律的科学"
+  },
+  {
+    "attribute": "名字",
+    "count": 2,
+    "example": "雄黑猩猩 名字 大卫"
+  },
+  {
+    "attribute": "产蛋年龄",
+    "count": 1,
+    "example": "母鸡 产蛋年龄 19周龄"
+  },
+  {
+    "attribute": "寿命",
+    "count": 3,
+    "example": "孢子 寿命 短"
+  },
+  {
+    "attribute": "腔室数量",
+    "count": 1,
+    "example": "心脏 腔室数量 四腔"
+  },
+  {
+    "attribute": "幼体发育环境",
+    "count": 2,
+    "example": "蟾蜍 幼体发育环境 水中"
+  },
+  {
+    "attribute": "生命力",
+    "count": 1,
+    "example": "莲子 生命力 长久"
+  },
+  {
+    "attribute": "字母小写",
+    "count": 1,
+    "example": "种加词 字母小写 小写"
+  },
+  {
+    "attribute": "复杂程度",
+    "count": 1,
+    "example": "生态系统的结构 复杂程度 复杂"
+  },
+  {
+    "attribute": "生存方式",
+    "count": 2,
+    "example": "病毒 生存方式 寄生在活细胞内"
+  },
+  {
+    "attribute": "现存裸子植物种类数量",
+    "count": 1,
+    "example": "我国 现存裸子植物种类数量 最多"
+  },
+  {
+    "attribute": "体型",
+    "count": 2,
+    "example": "珊瑚虫 体型 微小"
+  },
+  {
+    "attribute": "发酵产物",
+    "count": 2,
+    "example": "酵母菌 发酵产物 酒精"
+  },
+  {
+    "attribute": "传播速度",
+    "count": 1,
+    "example": "高致病性禽流感 传播速度 快"
+  },
+  {
+    "attribute": "大小",
+    "count": 13,
+    "example": "头 大小 小"
+  },
+  {
+    "attribute": "运动方式",
+    "count": 11,
+    "example": "蜥蜴 运动方式 爬行"
+  },
+  {
+    "attribute": "方式",
+    "count": 1,
+    "example": "传粉杂交 方式 人工控制"
+  },
+  {
+    "attribute": "日期",
+    "count": 1,
+    "example": "世界艾滋病日 日期 12月1日"
+  },
+  {
+    "attribute": "活动时间",
+    "count": 3,
+    "example": "小鼠 活动时间 夜晚"
+  },
+  {
+    "attribute": "实质",
+    "count": 1,
+    "example": "遗传 实质 基因传递"
+  },
+  {
+    "attribute": "性染色体组成",
+    "count": 2,
+    "example": "受精卵 性染色体组成 XX"
+  },
+  {
+    "attribute": "特性",
+    "count": 10,
+    "example": "生物 特性 遗传"
+  },
+  {
+    "attribute": "遗传特性",
+    "count": 1,
+    "example": "无性生殖产生的后代 遗传特性 母体的遗传特性"
+  },
+  {
+    "attribute": "生活方式",
+    "count": 4,
+    "example": "猕猴 生活方式 群居"
+  },
+  {
+    "attribute": "数量比例",
+    "count": 1,
+    "example": "鱼 数量比例 超过脊椎动物的一半"
+  },
+  {
+    "attribute": "繁殖季节",
+    "count": 1,
+    "example": "青蛙 繁殖季节 春末夏初"
+  },
+  {
+    "attribute": "重量",
+    "count": 1,
+    "example": "芽孢 重量 轻"
+  },
+  {
+    "attribute": "时长",
+    "count": 1,
+    "example": "鸡卵的孵化期 时长 21天"
+  },
+  {
+    "attribute": "生长高度",
+    "count": 1,
+    "example": "裸子植物 生长高度 高大"
+  },
+  {
+    "attribute": "含量",
+    "count": 2,
+    "example": "维生素C 含量 比普通甜椒高"
+  },
+  {
+    "attribute": "反应",
+    "count": 1,
+    "example": "雪豹 反应 机敏"
+  },
+  {
+    "attribute": "分布范围为",
+    "count": 1,
+    "example": "水杉 分布范围为 全国各地"
+  },
+  {
+    "attribute": "吸收量",
+    "count": 1,
+    "example": "树木每生长1立方米 吸收量 1.83吨"
+  },
+  {
+    "attribute": "可改变性",
+    "count": 1,
+    "example": "动物的学习行为 可改变性 不可改变"
+  },
+  {
+    "attribute": "传染性",
+    "count": 3,
+    "example": "近视 传染性 不存在"
+  },
+  {
+    "attribute": "叶数",
+    "count": 2,
+    "example": "左肺 叶数 两叶"
+  },
+  {
+    "attribute": "含氧量",
+    "count": 2,
+    "example": "动脉血 含氧量 丰富"
+  },
+  {
+    "attribute": "释放量",
+    "count": 1,
+    "example": "树木每生长1立方米 释放量 1.62吨"
+  },
+  {
+    "attribute": "辅助呼吸器官",
+    "count": 1,
+    "example": "成体 辅助呼吸器官 皮肤"
+  },
+  {
+    "attribute": "体温维持",
+    "count": 1,
+    "example": "哺乳动物 体温维持 恒定"
+  },
+  {
+    "attribute": "位置",
+    "count": 7,
+    "example": "输导组织 位置 茎内"
+  },
+  {
+    "attribute": "形态",
+    "count": 11,
+    "example": "霉菌菌落 形态 绒毛状"
+  },
+  {
+    "attribute": "名称",
+    "count": 1,
+    "example": "根 名称 假根"
+  },
+  {
+    "attribute": "细胞类型",
+    "count": 2,
+    "example": "青霉 细胞类型 多细胞"
+  },
+  {
+    "attribute": "跳跃能力",
+    "count": 1,
+    "example": "蜥蜴 跳跃能力 较差"
+  },
+  {
+    "attribute": "需要科学管理",
+    "count": 1,
+    "example": "健康 需要科学管理 科学管理"
+  },
+  {
+    "attribute": "目标亩产",
+    "count": 1,
+    "example": "超级稻第三期高产攻关 目标亩产 900千克"
+  },
+  {
+    "attribute": "朝向",
+    "count": 2,
+    "example": "身体 朝向 海底"
+  },
+  {
+    "attribute": "上端",
+    "count": 1,
+    "example": "种子 上端 裸露"
+  },
+  {
+    "attribute": "体积",
+    "count": 4,
+    "example": "白细胞 体积 比较大"
+  },
+  {
+    "attribute": "血流速度",
+    "count": 2,
+    "example": "毛细血管 血流速度 最慢"
+  },
+  {
+    "attribute": "结构为",
+    "count": 1,
+    "example": "叶 结构为 肉质"
+  },
+  {
+    "attribute": "密度",
+    "count": 1,
+    "example": "骨骼 密度 轻"
+  },
+  {
+    "attribute": "主要功能",
+    "count": 2,
+    "example": "土壤 主要功能 提供营养物质"
+  },
+  {
+    "attribute": "生殖方式",
+    "count": 5,
+    "example": "细菌 生殖方式 分裂"
+  },
+  {
+    "attribute": "蜕皮终止阶段",
+    "count": 1,
+    "example": "昆虫 蜕皮终止阶段 成虫后"
+  },
+  {
+    "attribute": "易发生",
+    "count": 2,
+    "example": "声带 易发生 充血"
+  },
+  {
+    "attribute": "花色",
+    "count": 1,
+    "example": "郁金香 花色 艳丽"
+  },
+  {
+    "attribute": "管壁厚度",
+    "count": 1,
+    "example": "静脉 管壁厚度 较薄"
+  },
+  {
+    "attribute": "称号",
+    "count": 2,
+    "example": "袁隆平 称号 杂交水稻之父"
+  },
+  {
+    "attribute": "次数",
+    "count": 1,
+    "example": "吹气 次数 2次"
+  },
+  {
+    "attribute": "引入时间",
+    "count": 1,
+    "example": "麋鹿 引入时间 1985年"
+  },
+  {
+    "attribute": "易碎性",
+    "count": 1,
+    "example": "坚果 易碎性 不容易摔碎"
+  },
+  {
+    "attribute": "血压",
+    "count": 1,
+    "example": "长颈鹿 血压 很高"
+  },
+  {
+    "attribute": "散失方式",
+    "count": 1,
+    "example": "水 散失方式 蒸腾作用"
+  },
+  {
+    "attribute": "用法",
+    "count": 1,
+    "example": "药物 用法 简单"
+  },
+  {
+    "attribute": "果型",
+    "count": 1,
+    "example": "太空椒 果型 增大"
+  },
+  {
+    "attribute": "规律性",
+    "count": 2,
+    "example": "月经 规律性 不规律"
+  },
+  {
+    "attribute": "运送终点",
+    "count": 1,
+    "example": "纤毛 运送终点 咽部"
+  },
+  {
+    "attribute": "发育过程",
+    "count": 1,
+    "example": "幼体 发育过程 变态发育"
+  },
+  {
+    "attribute": "每个产生的后代数量为",
+    "count": 1,
+    "example": "幸存者 每个产生的后代数量为 3"
+  },
+  {
+    "attribute": "氧气含量",
+    "count": 1,
+    "example": "高原地区 氧气含量 低"
+  },
+  {
+    "attribute": "植株特征",
+    "count": 2,
+    "example": "豌豆 植株特征 高茎"
+  },
+  {
+    "attribute": "简称",
+    "count": 1,
+    "example": "《中华人民共和国渔业法》 简称 《渔业法》"
+  },
+  {
+    "attribute": "每升高1℃吸收的热量",
+    "count": 1,
+    "example": "水 每升高1℃吸收的热量 4.2焦"
+  },
+  {
+    "attribute": "需要",
+    "count": 4,
+    "example": "绿豆种子萌发 需要 适量的水"
+  },
+  {
+    "attribute": "身体呈",
+    "count": 1,
+    "example": "腔肠动物 身体呈 辐射对称"
+  },
+  {
+    "attribute": "第一个字母",
+    "count": 2,
+    "example": "属名 第一个字母 大写"
+  },
+  {
+    "attribute": "蜕皮次数",
+    "count": 1,
+    "example": "昆虫 蜕皮次数 固定"
+  },
+  {
+    "attribute": "干燥程度",
+    "count": 1,
+    "example": "皮肤 干燥程度 干燥"
+  },
+  {
+    "attribute": "栖息环境",
+    "count": 2,
+    "example": "蝌蚪 栖息环境 水"
+  },
+  {
+    "attribute": "出生日期",
+    "count": 1,
+    "example": "试管婴儿 出生日期 1978年7月25日"
+  },
+  {
+    "attribute": "面积",
+    "count": 2,
+    "example": "彩色纸 面积 0.8米米"
+  },
+  {
+    "attribute": "表面有",
+    "count": 1,
+    "example": "鳞片 表面有 黏液"
+  },
+  {
+    "attribute": "对称性",
+    "count": 1,
+    "example": "刺胞动物 对称性 辐射对称"
+  },
+  {
+    "attribute": "确定依据",
+    "count": 1,
+    "example": "保质期 确定依据 微生物生长的预测时间"
+  },
+  {
+    "attribute": "细胞层数",
+    "count": 1,
+    "example": "叶 细胞层数 一层"
+  },
+  {
+    "attribute": "光照时间需求",
+    "count": 1,
+    "example": "鸡群 光照时间需求 每天14~16小时"
+  },
+  {
+    "attribute": "生存环境",
+    "count": 1,
+    "example": "破伤风杆菌 生存环境 缺氧条件"
+  },
+  {
+    "attribute": "分节状态",
+    "count": 2,
+    "example": "动物的附肢 分节状态 分节"
+  },
+  {
+    "attribute": "性别",
+    "count": 2,
+    "example": "孩子 性别 女孩"
+  },
+  {
+    "attribute": "宽度",
+    "count": 1,
+    "example": "声带 宽度 明显增加"
+  },
+  {
+    "attribute": "排列方式",
+    "count": 4,
+    "example": "羽毛 排列方式 整齐"
+  },
+  {
+    "attribute": "分类",
+    "count": 5,
+    "example": "禽流感 分类 高致病性"
+  },
+  {
+    "attribute": "分节情况",
+    "count": 1,
+    "example": "身体 分节情况 不分节"
+  },
+  {
+    "attribute": "稳定性",
+    "count": 1,
+    "example": "生态系统 稳定性 强"
+  },
+  {
+    "attribute": "身体分节情况",
+    "count": 1,
+    "example": "蛔虫 身体分节情况 不分节"
+  },
+  {
+    "attribute": "颜色是",
+    "count": 3,
+    "example": "苞片 颜色是 白色"
+  },
+  {
+    "attribute": "弹性程度",
+    "count": 1,
+    "example": "静脉 弹性程度 较小"
+  },
+  {
+    "attribute": "开花位置",
+    "count": 1,
+    "example": "落花生 开花位置 地上"
+  },
+  {
+    "attribute": "语言",
+    "count": 2,
+    "example": "生物学名部分 语言 拉丁文"
+  },
+  {
+    "attribute": "参与时间",
+    "count": 1,
+    "example": "中国科学家 参与时间 1999年"
+  },
+  {
+    "attribute": "灭菌方式",
+    "count": 1,
+    "example": "培养皿 灭菌方式 高温灭菌"
+  },
+  {
+    "attribute": "原料",
+    "count": 1,
+    "example": "二氧化碳 原料 光合作用"
+  },
+  {
+    "attribute": "人工繁育状态",
+    "count": 1,
+    "example": "扬子鳄 人工繁育状态 成功"
+  },
+  {
+    "attribute": "食性",
+    "count": 9,
+    "example": "花鲢 食性 浮游动物"
+  },
+  {
+    "attribute": "克隆方法",
+    "count": 2,
+    "example": "中中 克隆方法 体细胞克隆技术"
+  },
+  {
+    "attribute": "硬度",
+    "count": 2,
+    "example": "体表 硬度 硬"
+  },
+  {
+    "attribute": "直径",
+    "count": 3,
+    "example": "茎干 直径 20厘米"
+  },
+  {
+    "attribute": "别名",
+    "count": 10,
+    "example": "鲢鱼 别名 白鲢"
+  },
+  {
+    "attribute": "颜色示意为",
+    "count": 2,
+    "example": "蒸馏水 颜色示意为 淡蓝色"
+  },
+  {
+    "attribute": "发育程度",
+    "count": 2,
+    "example": "输导组织 发育程度 原始"
+  },
+  {
+    "attribute": "标记",
+    "count": 2,
+    "example": "枝条A 标记 A"
+  },
+  {
+    "attribute": "体长",
+    "count": 2,
+    "example": "动物 体长 不足3厘米"
+  },
+  {
+    "attribute": "出生地",
+    "count": 3,
+    "example": "孟德尔 出生地 奥地利"
+  },
+  {
+    "attribute": "优先选择",
+    "count": 1,
+    "example": "首领雄狒狒 优先选择 栖息场所"
+  },
+  {
+    "attribute": "趋势",
+    "count": 1,
+    "example": "森林覆盖率 趋势 上升"
+  },
+  {
+    "attribute": "出现时间",
+    "count": 5,
+    "example": "银杏 出现时间 2亿多年前"
+  },
+  {
+    "attribute": "高度为",
+    "count": 1,
+    "example": "珙桐 高度为 30多米"
+  },
+  {
+    "attribute": "食物",
+    "count": 4,
+    "example": "猕猴 食物 野果"
+  },
+  {
+    "attribute": "落成地点",
+    "count": 1,
+    "example": "全方位可转动射电望远镜 落成地点 上海天文台"
+  },
+  {
+    "attribute": "耐受极限",
+    "count": 1,
+    "example": "人的大脑细胞 耐受极限 4~6分钟"
+  },
+  {
+    "attribute": "细胞结构",
+    "count": 1,
+    "example": "细菌 细胞结构 单细胞"
+  },
+  {
+    "attribute": "状态",
+    "count": 39,
+    "example": "水杉的种子 状态 裸露的"
+  },
+  {
+    "attribute": "表面",
+    "count": 1,
+    "example": "叶片 表面 光滑"
+  },
+  {
+    "attribute": "传播方式",
+    "count": 2,
+    "example": "流感病毒 传播方式 空气"
+  },
+  {
+    "attribute": "总长",
+    "count": 2,
+    "example": "根 总长 623千米"
+  },
+  {
+    "attribute": "功能为",
+    "count": 1,
+    "example": "爪 功能为 能伸缩"
+  },
+  {
+    "attribute": "地位",
+    "count": 1,
+    "example": "戈利亚 地位 较高"
+  },
+  {
+    "attribute": "分裂速度",
+    "count": 1,
+    "example": "癌细胞 分裂速度 非常快"
+  },
+  {
+    "attribute": "总部分",
+    "count": 1,
+    "example": "《本草纲目》 总部分 16部"
+  },
+  {
+    "attribute": "产卵地点",
+    "count": 1,
+    "example": "爬行动物 产卵地点 陆地"
+  },
+  {
+    "attribute": "首字母大写",
+    "count": 1,
+    "example": "属名 首字母大写 大写"
+  },
+  {
+    "attribute": "花费时间",
+    "count": 1,
+    "example": "李时珍 花费时间 30年"
+  },
+  {
+    "attribute": "胸径",
+    "count": 2,
+    "example": "水杉 胸径 超过2米"
+  },
+  {
+    "attribute": "最大重量",
+    "count": 1,
+    "example": "叶球 最大重量 6.5千克"
+  },
+  {
+    "attribute": "可见性",
+    "count": 2,
+    "example": "菌落 可见性 肉眼可见"
+  },
+  {
+    "attribute": "高度",
+    "count": 1,
+    "example": "茎干 高度 6米"
+  },
+  {
+    "attribute": "水质",
+    "count": 1,
+    "example": "产卵场所 水质 良好"
+  },
+  {
+    "attribute": "心跳频率",
+    "count": 1,
+    "example": "鸟 心跳频率 高"
+  },
+  {
+    "attribute": "体色",
+    "count": 3,
+    "example": "草鱼 体色 青黄色"
+  },
+  {
+    "attribute": "保持湿润",
+    "count": 1,
+    "example": "蚯蚓体表 保持湿润 湿润"
+  },
+  {
+    "attribute": "食量",
+    "count": 1,
+    "example": "鸟 食量 大"
+  },
+  {
+    "attribute": "营养",
+    "count": 1,
+    "example": "果实 营养 丰富"
+  },
+  {
+    "attribute": "香味",
+    "count": 2,
+    "example": "玉米的花 香味 没有"
+  },
+  {
+    "attribute": "毒性",
+    "count": 2,
+    "example": "病毒 毒性 无害"
+  },
+  {
+    "attribute": "时间",
+    "count": 2,
+    "example": "米酒制作 时间 3天左右"
+  },
+  {
+    "attribute": "视觉",
+    "count": 1,
+    "example": "鸟 视觉 发达"
+  },
+  {
+    "attribute": "单位",
+    "count": 2,
+    "example": "周长 单位 厘米"
+  },
+  {
+    "attribute": "分类地位",
+    "count": 1,
+    "example": "软体动物 分类地位 第二大类群"
+  },
+  {
+    "attribute": "飞行能力",
+    "count": 3,
+    "example": "驼鸟 飞行能力 不能飞行"
+  },
+  {
+    "attribute": "数量",
+    "count": 51,
+    "example": "生物 数量 200多万种"
+  },
+  {
+    "attribute": "制造时间",
+    "count": 1,
+    "example": "最早的显微镜 制造时间 16世纪末"
+  },
+  {
+    "attribute": "排泄方式",
+    "count": 1,
+    "example": "甜菜红素 排泄方式 尿液"
+  },
+  {
+    "attribute": "分布区域",
+    "count": 3,
+    "example": "石斑鱼 分布区域 热带、亚热带暖水海域"
+  },
+  {
+    "attribute": "应用领域",
+    "count": 7,
+    "example": "碘 应用领域 工业"
+  },
+  {
+    "attribute": "启动时间",
+    "count": 2,
+    "example": "国际千人基因组计划 启动时间 2008年"
+  },
+  {
+    "attribute": "过程",
+    "count": 1,
+    "example": "开花和结果 过程 连续"
+  },
+  {
+    "attribute": "历史",
+    "count": 1,
+    "example": "豆芽 历史 两千多年"
+  },
+  {
+    "attribute": "呼吸频率",
+    "count": 1,
+    "example": "肺 呼吸频率 16次/分钟"
+  },
+  {
+    "attribute": "生活习性",
+    "count": 1,
+    "example": "珊瑚虫 生活习性 群居"
+  },
+  {
+    "attribute": "厚度",
+    "count": 2,
+    "example": "细胞膜 厚度 薄"
+  },
+  {
+    "attribute": "凶猛程度",
+    "count": 1,
+    "example": "带鱼 凶猛程度 凶猛"
+  },
+  {
+    "attribute": "状态为",
+    "count": 1,
+    "example": "食糜 状态为 半消化"
+  },
+  {
+    "attribute": "触感",
+    "count": 1,
+    "example": "鱼体表 触感 黏滑"
+  },
+  {
+    "attribute": "分布于",
+    "count": 1,
+    "example": "汗腺 分布于 人的全身皮肤"
+  },
+  {
+    "attribute": "死亡率",
+    "count": 1,
+    "example": "狂犬病 死亡率 100%"
+  },
+  {
+    "attribute": "抵抗力",
+    "count": 1,
+    "example": "生态系统 抵抗力 强"
+  },
+  {
+    "attribute": "观察工具",
+    "count": 2,
+    "example": "流感病毒 观察工具 电子显微镜"
+  },
+  {
+    "attribute": "体表壳情况",
+    "count": 1,
+    "example": "蜗牛 体表壳情况 无壳"
+  },
+  {
+    "attribute": "数目",
+    "count": 5,
+    "example": "红细胞 数目 个/升"
+  },
+  {
+    "attribute": "颁布年份",
+    "count": 1,
+    "example": "《中国生物多样性保护战略与行动计划》 颁布年份 2010年"
+  },
+  {
+    "attribute": "基因多样性",
+    "count": 3,
+    "example": "家养动物 基因多样性 丰富"
+  },
+  {
+    "attribute": "气味",
+    "count": 4,
+    "example": "植物花 气味 芬芳"
+  },
+  {
+    "attribute": "测距误差",
+    "count": 1,
+    "example": "大型动物 测距误差 小于1米"
+  },
+  {
+    "attribute": "颜色",
+    "count": 56,
+    "example": "叶羊 颜色 透明"
+  },
+  {
+    "attribute": "生存特点",
+    "count": 2,
+    "example": "鱼 生存特点 游动"
+  },
+  {
+    "attribute": "产仔数量",
+    "count": 1,
+    "example": "雌象 产仔数量 6头"
+  },
+  {
+    "attribute": "质地",
+    "count": 5,
+    "example": "角质喙 质地 坚硬"
+  },
+  {
+    "attribute": "统治时间",
+    "count": 1,
+    "example": "恐龙 统治时间 一亿多年"
+  },
+  {
+    "attribute": "类型",
+    "count": 10,
+    "example": "玻片标本 类型 永久的"
+  },
+  {
+    "attribute": "生殖环境",
+    "count": 4,
+    "example": "青蛙 生殖环境 水中"
+  },
+  {
+    "attribute": "分布位置",
+    "count": 5,
+    "example": "静脉 分布位置 较深"
+  },
+  {
+    "attribute": "病因",
+    "count": 3,
+    "example": "21三体综合征 病因 染色体异常"
+  },
+  {
+    "attribute": "排列方式为",
+    "count": 1,
+    "example": "叶 排列方式为 对生"
+  },
+  {
+    "attribute": "长度为",
+    "count": 3,
+    "example": "黑麦根 长度为 623千米"
+  },
+  {
+    "attribute": "破壳时间",
+    "count": 1,
+    "example": "雏鸡 破壳时间 21天"
+  },
+  {
+    "attribute": "绝灭时间",
+    "count": 1,
+    "example": "恐龙 绝灭时间 六千多万年前"
+  },
+  {
+    "attribute": "等级",
+    "count": 2,
+    "example": "分类单位 等级 高"
+  },
+  {
+    "attribute": "部位",
+    "count": 1,
+    "example": "根尖 部位 幼根生长最快的部位"
+  },
+  {
+    "attribute": "在细胞分裂时的状态",
+    "count": 1,
+    "example": "染色体 在细胞分裂时的状态 凝缩状态"
+  },
+  {
+    "attribute": "本能",
+    "count": 1,
+    "example": "生物 本能 繁衍后代"
+  },
+  {
+    "attribute": "共同特征的数量",
+    "count": 2,
+    "example": "分类单位 共同特征的数量 少"
+  },
+  {
+    "attribute": "条件",
+    "count": 2,
+    "example": "甲组 条件 无菌条件"
+  },
+  {
+    "attribute": "种子颜色",
+    "count": 2,
+    "example": "豌豆 种子颜色 黄色"
+  },
+  {
+    "attribute": "大小为",
+    "count": 1,
+    "example": "个体 大小为 微小"
+  },
+  {
+    "attribute": "对称结构",
+    "count": 1,
+    "example": "珊瑚虫 对称结构 辐射对称"
+  },
+  {
+    "attribute": "寓意",
+    "count": 1,
+    "example": "鱼 寓意 年年有余"
+  },
+  {
+    "attribute": "管径",
+    "count": 1,
+    "example": "动脉 管径 较粗"
+  },
+  {
+    "attribute": "字体",
+    "count": 3,
+    "example": "生物学名部分 字体 斜体字"
+  },
+  {
+    "attribute": "含糖量",
+    "count": 1,
+    "example": "甜菜 含糖量 提高"
+  },
+  {
+    "attribute": "身体形状",
+    "count": 1,
+    "example": "腔肠动物 身体形状 扁平"
+  },
+  {
+    "attribute": "携带",
+    "count": 1,
+    "example": "药物 携带 方便"
+  },
+  {
+    "attribute": "俗称",
+    "count": 1,
+    "example": "鲸 俗称 鲸鱼"
+  },
+  {
+    "attribute": "繁殖场所",
+    "count": 1,
+    "example": "病毒 繁殖场所 寄主细胞内"
+  },
+  {
+    "attribute": "需要光照",
+    "count": 1,
+    "example": "绿豆种子的萌发 需要光照 不"
+  },
+  {
+    "attribute": "结构是",
+    "count": 1,
+    "example": "消化器官 结构是 简单"
+  },
+  {
+    "attribute": "运输方向",
+    "count": 1,
+    "example": "水 运输方向 向上"
+  },
+  {
+    "attribute": "特征",
+    "count": 11,
+    "example": "羽毛 特征 发达"
+  },
+  {
+    "attribute": "最大胸径",
+    "count": 1,
+    "example": "银杏 最大胸径 4米"
+  },
+  {
+    "attribute": "眶间部形态",
+    "count": 1,
+    "example": "狐 眶间部形态 平缓"
+  },
+  {
+    "attribute": "颜色为",
+    "count": 2,
+    "example": "叶片 颜色为 黄色"
+  },
+  {
+    "attribute": "放大倍数",
+    "count": 1,
+    "example": "电子显微镜 放大倍数 百万倍"
+  },
+  {
+    "attribute": "温度要求",
+    "count": 2,
+    "example": "种子萌发 温度要求 20-30℃"
+  },
+  {
+    "attribute": "生活在",
+    "count": 1,
+    "example": "黄鳝 生活在 水中"
+  },
+  {
+    "attribute": "形成于",
+    "count": 1,
+    "example": "大坑 形成于 六千多万年前"
+  },
+  {
+    "attribute": "后期湿度要求",
+    "count": 1,
+    "example": "鸡卵的人工孵化 后期湿度要求 65%到75%"
+  },
+  {
+    "attribute": "行动",
+    "count": 1,
+    "example": "雪豹 行动 灵活"
+  },
+  {
+    "attribute": "必要性",
+    "count": 1,
+    "example": "施肥 必要性 必要"
+  },
+  {
+    "attribute": "存在时间",
+    "count": 1,
+    "example": "李氏果 存在时间 1.25亿年前"
+  },
+  {
+    "attribute": "放置条件",
+    "count": 2,
+    "example": "甲组 放置条件 无菌条件"
+  },
+  {
+    "attribute": "基因组成",
+    "count": 3,
+    "example": "能卷舌的人 基因组成 AA"
+  },
+  {
+    "attribute": "附肢结构",
+    "count": 1,
+    "example": "环节动物 附肢结构 分节"
+  },
+  {
+    "attribute": "腐蚀性",
+    "count": 1,
+    "example": "氢氧化钠溶液 腐蚀性 腐蚀性"
+  },
+  {
+    "attribute": "目标实现时间",
+    "count": 1,
+    "example": "碳中和 目标实现时间 2060年前"
+  },
+  {
+    "attribute": "应用",
+    "count": 2,
+    "example": "人工合成的促进细胞分裂的物质 应用 农业生产"
+  },
+  {
+    "attribute": "完整性",
+    "count": 1,
+    "example": "胚 完整性 完整"
+  },
+  {
+    "attribute": "功能",
+    "count": 287,
+    "example": "生物 功能 获取氧气"
+  }
+]

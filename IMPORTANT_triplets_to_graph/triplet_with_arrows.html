@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Triplets.js 力导向图（含悬浮提示）</title>
+    <style>
+      body,
+      html {
+        margin: 0;
+        padding: 0;
+        height: 100%;
+        width: 100%;
+      }
+
+      #container {
+        width: 100vw;
+        height: 100vh;
+        background-color: #f5f5f5;
+        border: none;
+        margin: 0;
+      }
+
+      svg {
+        width: 100%;
+        height: 100%;
+      }
+
+      .tooltip {
+        position: absolute;
+        padding: 6px 10px;
+        background-color: rgba(0, 0, 0, 0.75);
+        color: white;
+        border-radius: 4px;
+        font-size: 12px;
+        pointer-events: none;
+        display: none;
+      }
+
+      /* Sidebar styles */
+      #sidebar {
+        position: fixed;
+        top: 20px;
+        right: 20px;
+        width: 200px;
+        background: white;
+        border: 1px solid #ccc;
+        padding: 12px 16px;
+        box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+        font-family: sans-serif;
+        font-size: 14px;
+        line-height: 1.5;
+        color: #333;
+        z-index: 9999;
+      }
+
+      #sidebar h3 {
+        margin-top: 0;
+        font-size: 16px;
+        border-bottom: 1px solid #ddd;
+        padding-bottom: 6px;
+      }
+    </style>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="人教版\outputs\人教版初中生物课本三元组_nodes.js"></script>
+    <script src="人教版\outputs\人教版初中生物课本三元组_edges.js"></script>
+  </head>
+  <body>
+    <div id="container">
+      <div class="tooltip" id="tooltip"></div>
+    </div>
+
+    <!-- Sidebar to show triplet counts -->
+    <div id="sidebar">
+      <h3>Triplets Info</h3>
+      <p>关系三元组数量: <span id="relationCount">-</span></p>
+      <p>属性三元组数量: <span id="attributeCount">-</span></p>
+      <p>总三元组数量: <span id="totalCount">-</span></p>
+    </div>
+
+    <script>
+      // --- Put your triplet counts here ---
+      fetch("outputs/counts.json")
+        .then((res) => res.json())
+        .then((data) => {
+          document.getElementById("relationCount").innerText =
+            data.relationCount;
+          document.getElementById("attributeCount").innerText =
+            data.attributeCount;
+          document.getElementById("totalCount").innerText = data.totalCount;
+        });
+
+      const container = document.getElementById("container");
+      const tooltip = document.getElementById("tooltip");
+      const width = container.clientWidth;
+      const height = container.clientHeight;
+
+      const svg = d3
+        .select("#container")
+        .append("svg")
+        .attr("width", width)
+        .attr("height", height);
+
+      // 🔽 Arrowhead definition
+      const defs = svg.append("defs");
+      defs
+        .append("marker")
+        .attr("id", "arrowhead")
+        .attr("viewBox", "0 -5 10 10")
+        .attr("refX", 45) // adjust based on node size (r=30)
+        .attr("refY", 0)
+        .attr("markerWidth", 6)
+        .attr("markerHeight", 6)
+        .attr("orient", "auto")
+        .attr("markerUnits", "strokeWidth")
+        .append("path")
+        .attr("d", "M0,-5L10,0L0,5")
+        .attr("fill", "#999");
+
+      const canvas = svg.append("g");
+
+      svg.call(
+        d3
+          .zoom()
+          .scaleExtent([0.5, 2])
+          .on("zoom", (event) => {
+            canvas.attr("transform", event.transform);
+          })
+      );
+
+      const labelGroup = canvas.append("g");
+
+      const simulation = d3
+        .forceSimulation(nodes)
+        .force(
+          "link",
+          d3
+            .forceLink(edges)
+            .id((d) => d.id)
+            .distance(200)
+        )
+        .force("charge", d3.forceManyBody().strength(-500))
+        .force("center", d3.forceCenter(width / 2, height / 2));
+
+      const linkGroup = canvas
+        .append("g")
+        .attr("stroke", "#999")
+        .attr("stroke-opacity", 0.6);
+
+      const link = linkGroup
+        .selectAll("line")
+        .data(edges)
+        .join("line")
+        .attr("stroke-width", 2)
+        .attr("marker-end", "url(#arrowhead)"); // 🔽 Add arrowhead
+
+      const linkText = linkGroup
+        .selectAll("text")
+        .data(edges)
+        .join("text")
+        .text((d) => d.relation)
+        .attr("font-size", "12px")
+        .attr("fill", "#333");
+
+      const nodeGroup = canvas
+        .append("g")
+        .attr("stroke", "#fff")
+        .attr("stroke-width", 1.5);
+
+      const node = nodeGroup
+        .selectAll("circle")
+        .data(nodes)
+        .join("circle")
+        .attr("r", 30)
+        .attr("fill", "#69b3a2")
+        .on("mouseover", (event, d) => {
+          tooltip.style.display = "block";
+          tooltip.innerText = `${d.name}\n${d.info}`;
+        })
+        .on("mousemove", (event) => {
+          tooltip.style.left = event.pageX + 10 + "px";
+          tooltip.style.top = event.pageY + 10 + "px";
+        })
+        .on("mouseout", () => {
+          tooltip.style.display = "none";
+        })
+        .call(drag(simulation));
+
+      const label = canvas
+        .append("g")
+        .selectAll("text")
+        .data(nodes)
+        .join("text")
+        .text((d) => d.name)
+        .attr("text-anchor", "middle")
+        .attr("dy", ".35em")
+        .attr("font-size", "14px")
+        .attr("font-weight", "bold");
+
+      simulation.on("tick", () => {
+        link
+          .attr("x1", (d) => d.source.x)
+          .attr("y1", (d) => d.source.y)
+          .attr("x2", (d) => d.target.x)
+          .attr("y2", (d) => d.target.y);
+
+        linkText
+          .attr("x", (d) => (d.source.x + d.target.x) / 2)
+          .attr("y", (d) => (d.source.y + d.target.y) / 2);
+
+        node.attr("cx", (d) => d.x).attr("cy", (d) => d.y);
+
+        label.attr("x", (d) => d.x).attr("y", (d) => d.y);
+      });
+
+      function drag(simulation) {
+        function dragstarted(event, d) {
+          if (!event.active) simulation.alphaTarget(0.3).restart();
+          d.fx = d.x;
+          d.fy = d.y;
+        }
+
+        function dragged(event, d) {
+          d.fx = event.x;
+          d.fy = event.y;
+        }
+
+        function dragended(event, d) {
+          if (!event.active) simulation.alphaTarget(0);
+          d.fx = null;
+          d.fy = null;
+        }
+
+        return d3
+          .drag()
+          .on("start", dragstarted)
+          .on("drag", dragged)
+          .on("end", dragended);
+      }
+    </script>
+  </body>
+</html>

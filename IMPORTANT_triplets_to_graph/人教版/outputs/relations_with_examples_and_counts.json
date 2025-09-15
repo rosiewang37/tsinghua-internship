@@ -1,0 +1,1917 @@
+[
+  {
+    "relation": "储存于",
+    "count": 1,
+    "example": "胆汁 储存于 胆囊"
+  },
+  {
+    "relation": "是",
+    "count": 5,
+    "example": "同心圆花纹 是 年轮"
+  },
+  {
+    "relation": "提供",
+    "count": 24,
+    "example": "藻类 提供 氧气"
+  },
+  {
+    "relation": "发育为",
+    "count": 5,
+    "example": "不定芽 发育为 新植株"
+  },
+  {
+    "relation": "生长出",
+    "count": 2,
+    "example": "真菌 生长出 棒状菌体"
+  },
+  {
+    "relation": "取食",
+    "count": 1,
+    "example": "菜青虫 取食 十字花科植物"
+  },
+  {
+    "relation": "诱捕",
+    "count": 1,
+    "example": "昆虫性外激素 诱捕 农业害虫"
+  },
+  {
+    "relation": "容纳",
+    "count": 1,
+    "example": "腹部 容纳 内脏器官"
+  },
+  {
+    "relation": "产生",
+    "count": 44,
+    "example": "植物 产生 种子"
+  },
+  {
+    "relation": "转化为",
+    "count": 3,
+    "example": "蕨类植物的遗体 转化为 煤"
+  },
+  {
+    "relation": "引起",
+    "count": 41,
+    "example": "结核分枝杆菌 引起 结核病"
+  },
+  {
+    "relation": "驯养而来",
+    "count": 1,
+    "example": "家畜 驯养而来 野生动物"
+  },
+  {
+    "relation": "对准",
+    "count": 1,
+    "example": "低倍物镜 对准 通光孔"
+  },
+  {
+    "relation": "以...为核心",
+    "count": 1,
+    "example": "国际合作协定 以...为核心 碳中和"
+  },
+  {
+    "relation": "采用",
+    "count": 5,
+    "example": "大型粮库 采用 充入氮气"
+  },
+  {
+    "relation": "排斥",
+    "count": 1,
+    "example": "免疫系统 排斥 异体器官"
+  },
+  {
+    "relation": "保存",
+    "count": 2,
+    "example": "自然保护区 保存 物种"
+  },
+  {
+    "relation": "可转变为",
+    "count": 1,
+    "example": "石斑鱼幼体 可转变为 雄鱼"
+  },
+  {
+    "relation": "更新",
+    "count": 1,
+    "example": "植物 更新 空气"
+  },
+  {
+    "relation": "分支为",
+    "count": 1,
+    "example": "动脉 分支为 毛细血管"
+  },
+  {
+    "relation": "应用于",
+    "count": 13,
+    "example": "显微镜 应用于 生物学"
+  },
+  {
+    "relation": "传播",
+    "count": 5,
+    "example": "蜜蜂 传播 花粉"
+  },
+  {
+    "relation": "汇集到",
+    "count": 2,
+    "example": "物质 汇集到 肝"
+  },
+  {
+    "relation": "学习",
+    "count": 3,
+    "example": "达尔文 学习 采集生物标本"
+  },
+  {
+    "relation": "引入自",
+    "count": 1,
+    "example": "野马 引入自 欧美"
+  },
+  {
+    "relation": "与...相像",
+    "count": 1,
+    "example": "多莉 与...相像 B羊"
+  },
+  {
+    "relation": "不能吸收",
+    "count": 1,
+    "example": "清水 不能吸收 二氧化碳"
+  },
+  {
+    "relation": "拉动",
+    "count": 1,
+    "example": "蒸腾作用 拉动 水"
+  },
+  {
+    "relation": "传播途径",
+    "count": 2,
+    "example": "狂犬病病毒 传播途径 咬伤"
+  },
+  {
+    "relation": "发展为",
+    "count": 3,
+    "example": "茎尖小片 发展为 植株"
+  },
+  {
+    "relation": "实施",
+    "count": 1,
+    "example": "兽医师 实施 外科手术"
+  },
+  {
+    "relation": "表示为",
+    "count": 2,
+    "example": "显性基因 表示为 大写字母"
+  },
+  {
+    "relation": "生殖能力",
+    "count": 1,
+    "example": "虫 生殖能力 强"
+  },
+  {
+    "relation": "完成",
+    "count": 1,
+    "example": "生殖系统 完成 人类新个体的产生"
+  },
+  {
+    "relation": "输送至",
+    "count": 1,
+    "example": "血流量 输送至 肌肉"
+  },
+  {
+    "relation": "影响",
+    "count": 7,
+    "example": "呼吸作用 影响 生长发育"
+  },
+  {
+    "relation": "保留",
+    "count": 1,
+    "example": "自然选择 保留 变异"
+  },
+  {
+    "relation": "以...为原料",
+    "count": 1,
+    "example": "淀粉 以...为原料 二氧化碳"
+  },
+  {
+    "relation": "伸长",
+    "count": 1,
+    "example": "伸长区细胞 伸长 细胞"
+  },
+  {
+    "relation": "汇集成",
+    "count": 1,
+    "example": "毛细血管 汇集成 出球小动脉"
+  },
+  {
+    "relation": "储存",
+    "count": 7,
+    "example": "国家作物种质库 储存 作物种子"
+  },
+  {
+    "relation": "采集",
+    "count": 1,
+    "example": "蜜蜂 采集 花粉"
+  },
+  {
+    "relation": "亲缘关系",
+    "count": 1,
+    "example": "豹 亲缘关系 狮"
+  },
+  {
+    "relation": "根据",
+    "count": 1,
+    "example": "园艺师 根据 生物学原理"
+  },
+  {
+    "relation": "滤过",
+    "count": 4,
+    "example": "肾小球 滤过 水"
+  },
+  {
+    "relation": "有效控制",
+    "count": 2,
+    "example": "消毒处理 有效控制 疾病的蔓延"
+  },
+  {
+    "relation": "激活",
+    "count": 1,
+    "example": "水分 激活 酶的活性"
+  },
+  {
+    "relation": "修整",
+    "count": 1,
+    "example": "黑猩猩 修整 工具"
+  },
+  {
+    "relation": "放出",
+    "count": 1,
+    "example": "种子 放出 二氧化碳"
+  },
+  {
+    "relation": "又称为",
+    "count": 1,
+    "example": "珙桐 又称为 中国鸽子树"
+  },
+  {
+    "relation": "被放归",
+    "count": 1,
+    "example": "野马 被放归 野外"
+  },
+  {
+    "relation": "后面有",
+    "count": 1,
+    "example": "种加词 后面有 命名者的姓名"
+  },
+  {
+    "relation": "浸润",
+    "count": 1,
+    "example": "碘液 浸润 标本"
+  },
+  {
+    "relation": "设立",
+    "count": 1,
+    "example": "世界卫生组织 设立 世界艾滋病日"
+  },
+  {
+    "relation": "由...导致",
+    "count": 1,
+    "example": "新生儿溶血病 由...导致 母婴血型不合"
+  },
+  {
+    "relation": "侵入",
+    "count": 4,
+    "example": "癌细胞 侵入 组织"
+  },
+  {
+    "relation": "发展而来",
+    "count": 1,
+    "example": "太空椒 发展而来 普通甜椒的种子"
+  },
+  {
+    "relation": "发出",
+    "count": 2,
+    "example": "声带 发出 声音"
+  },
+  {
+    "relation": "能形成",
+    "count": 1,
+    "example": "原始地球 能形成 有机物"
+  },
+  {
+    "relation": "分隔成",
+    "count": 1,
+    "example": "心脏 分隔成 左、右不相通的两个部分"
+  },
+  {
+    "relation": "分裂",
+    "count": 1,
+    "example": "分生区细胞 分裂 细胞"
+  },
+  {
+    "relation": "盖住",
+    "count": 1,
+    "example": "会厌软骨 盖住 喉口"
+  },
+  {
+    "relation": "切断",
+    "count": 1,
+    "example": "伍氏口罩 切断 传播途径"
+  },
+  {
+    "relation": "克隆自",
+    "count": 1,
+    "example": "五头牛 克隆自 成年牛体细胞"
+  },
+  {
+    "relation": "掌握",
+    "count": 2,
+    "example": "心理咨询师 掌握 心理咨询技术"
+  },
+  {
+    "relation": "获得",
+    "count": 8,
+    "example": "生物 获得 营养物质"
+  },
+  {
+    "relation": "堵塞",
+    "count": 1,
+    "example": "凝血块 堵塞 伤口"
+  },
+  {
+    "relation": "防治",
+    "count": 2,
+    "example": "病毒 防治 有害生物"
+  },
+  {
+    "relation": "进行",
+    "count": 3,
+    "example": "细胞 进行 分裂"
+  },
+  {
+    "relation": "由...发展而来",
+    "count": 2,
+    "example": "多细胞生物 由...发展而来 单细胞生物"
+  },
+  {
+    "relation": "表现形式",
+    "count": 3,
+    "example": "模型 表现形式 实物"
+  },
+  {
+    "relation": "互不相关",
+    "count": 1,
+    "example": "先天性行为 互不相关 学习行为"
+  },
+  {
+    "relation": "参与",
+    "count": 11,
+    "example": "植物 参与 水循环"
+  },
+  {
+    "relation": "结构",
+    "count": 2,
+    "example": "消化管 结构 简单"
+  },
+  {
+    "relation": "融入",
+    "count": 1,
+    "example": "鱼 融入 人类的文化"
+  },
+  {
+    "relation": "通过",
+    "count": 5,
+    "example": "鱼 通过 鳃"
+  },
+  {
+    "relation": "培育",
+    "count": 1,
+    "example": "袁隆平 培育 杂交水稻品种"
+  },
+  {
+    "relation": "覆盖",
+    "count": 5,
+    "example": "盖玻片 覆盖 洋葱内表皮"
+  },
+  {
+    "relation": "创立",
+    "count": 1,
+    "example": "该书 创立 中药材的纲目分类体系"
+  },
+  {
+    "relation": "表现为",
+    "count": 1,
+    "example": "动物的行为 表现为 运动"
+  },
+  {
+    "relation": "代替",
+    "count": 1,
+    "example": "电子显微镜 代替 可见光"
+  },
+  {
+    "relation": "沾有",
+    "count": 1,
+    "example": "昆虫 沾有 花粉"
+  },
+  {
+    "relation": "转化成",
+    "count": 1,
+    "example": "胡萝下素 转化成 维生素A"
+  },
+  {
+    "relation": "集中到",
+    "count": 1,
+    "example": "白细胞 集中到 病菌入侵部位"
+  },
+  {
+    "relation": "固定",
+    "count": 2,
+    "example": "压片夹 固定 玻片标本"
+  },
+  {
+    "relation": "木质部含有",
+    "count": 2,
+    "example": "裸子植物 木质部含有 管胞"
+  },
+  {
+    "relation": "捕食",
+    "count": 7,
+    "example": "雪豹 捕食 岩羊"
+  },
+  {
+    "relation": "不依赖于",
+    "count": 4,
+    "example": "鸟的生殖和发育 不依赖于 水环境"
+  },
+  {
+    "relation": "指挥",
+    "count": 1,
+    "example": "首领雄狒狒 指挥 社群"
+  },
+  {
+    "relation": "重新吸收",
+    "count": 3,
+    "example": "肾小管 重新吸收 无机盐"
+  },
+  {
+    "relation": "颁布",
+    "count": 4,
+    "example": "我国 颁布 《中华人民共和国森林法》"
+  },
+  {
+    "relation": "记载",
+    "count": 3,
+    "example": "诗经 记载 植物"
+  },
+  {
+    "relation": "利用",
+    "count": 8,
+    "example": "甲烷菌 利用 农作物秸秆"
+  },
+  {
+    "relation": "依赖",
+    "count": 1,
+    "example": "传统的种植业 依赖 土壤"
+  },
+  {
+    "relation": "生有",
+    "count": 1,
+    "example": "子房 生有 蜜腺"
+  },
+  {
+    "relation": "用于",
+    "count": 18,
+    "example": "病毒 用于 转基因"
+  },
+  {
+    "relation": "围绕",
+    "count": 1,
+    "example": "骨 围绕 关节"
+  },
+  {
+    "relation": "别名为",
+    "count": 1,
+    "example": "大 别名为 娃娃鱼"
+  },
+  {
+    "relation": "输送给",
+    "count": 3,
+    "example": "营养物质 输送给 胚根"
+  },
+  {
+    "relation": "穿过",
+    "count": 6,
+    "example": "花粉管 穿过 花柱"
+  },
+  {
+    "relation": "损害",
+    "count": 2,
+    "example": "吸毒 损害 神经系统"
+  },
+  {
+    "relation": "生成",
+    "count": 4,
+    "example": "二氧化碳 生成 酸性物质"
+  },
+  {
+    "relation": "运输",
+    "count": 6,
+    "example": "植物体 运输 水"
+  },
+  {
+    "relation": "转运到",
+    "count": 4,
+    "example": "葡萄糖 转运到 毛细血管"
+  },
+  {
+    "relation": "处理",
+    "count": 2,
+    "example": "呼吸道 处理 气体"
+  },
+  {
+    "relation": "栽培",
+    "count": 1,
+    "example": "园艺师 栽培 植物"
+  },
+  {
+    "relation": "需要添加",
+    "count": 1,
+    "example": "栽培项目 需要添加 无机盐"
+  },
+  {
+    "relation": "流回",
+    "count": 1,
+    "example": "血液 流回 心脏"
+  },
+  {
+    "relation": "分化为",
+    "count": 6,
+    "example": "造血干细胞 分化为 红细胞"
+  },
+  {
+    "relation": "由...引起",
+    "count": 1,
+    "example": "狂犬病 由...引起 狂犬病病毒"
+  },
+  {
+    "relation": "由...制成",
+    "count": 2,
+    "example": "腐乳 由...制成 豆腐"
+  },
+  {
+    "relation": "由...包裹",
+    "count": 1,
+    "example": "细胞核 由...包裹 核膜"
+  },
+  {
+    "relation": "保卫",
+    "count": 1,
+    "example": "首领雄狒狒 保卫 群体"
+  },
+  {
+    "relation": "进化而来",
+    "count": 5,
+    "example": "鸟类 进化而来 爬行类"
+  },
+  {
+    "relation": "吸收和利用",
+    "count": 3,
+    "example": "植物 吸收和利用 二氧化碳"
+  },
+  {
+    "relation": "辅助",
+    "count": 1,
+    "example": "皮肤 辅助 肺呼吸"
+  },
+  {
+    "relation": "转移至",
+    "count": 1,
+    "example": "能量 转移至 物体"
+  },
+  {
+    "relation": "瓦解",
+    "count": 1,
+    "example": "HIV 瓦解 免疫系统"
+  },
+  {
+    "relation": "被引入",
+    "count": 1,
+    "example": "麋鹿 被引入 我国"
+  },
+  {
+    "relation": "被利用",
+    "count": 3,
+    "example": "二氧化碳 被利用 植物"
+  },
+  {
+    "relation": "模拟",
+    "count": 8,
+    "example": "玻璃罩 模拟 胸廓"
+  },
+  {
+    "relation": "分裂成",
+    "count": 1,
+    "example": "细菌 分裂成 细菌"
+  },
+  {
+    "relation": "负责",
+    "count": 2,
+    "example": "亲鸟 负责 孵卵"
+  },
+  {
+    "relation": "缺乏",
+    "count": 1,
+    "example": "维生素C 缺乏 导致身体不能维持健康"
+  },
+  {
+    "relation": "发现者",
+    "count": 1,
+    "example": "红腹锦鸡 发现者 林奈"
+  },
+  {
+    "relation": "匹配",
+    "count": 1,
+    "example": "器官 匹配 患者身体"
+  },
+  {
+    "relation": "增强",
+    "count": 2,
+    "example": "体育锻炼 增强 身体素质"
+  },
+  {
+    "relation": "长成",
+    "count": 2,
+    "example": "种子 长成 幼苗"
+  },
+  {
+    "relation": "又名",
+    "count": 2,
+    "example": "RosachinensisJacquem 又名 长春花"
+  },
+  {
+    "relation": "比较",
+    "count": 3,
+    "example": "动物的分类 比较 形态结构"
+  },
+  {
+    "relation": "参与维持",
+    "count": 1,
+    "example": "植物 参与维持 生物圈的碳氧平衡"
+  },
+  {
+    "relation": "由受精卵分化形成",
+    "count": 4,
+    "example": "上皮组织 由受精卵分化形成 受精卵"
+  },
+  {
+    "relation": "别称",
+    "count": 1,
+    "example": "藏羚 别称 藏羚羊"
+  },
+  {
+    "relation": "产",
+    "count": 1,
+    "example": "鸟类 产 鸟卵"
+  },
+  {
+    "relation": "制成",
+    "count": 2,
+    "example": "苏云金杆菌 制成 粉剂"
+  },
+  {
+    "relation": "分解为",
+    "count": 3,
+    "example": "淀粉 分解为 麦芽糖"
+  },
+  {
+    "relation": "运送",
+    "count": 3,
+    "example": "纤毛 运送 尘粒"
+  },
+  {
+    "relation": "受基因控制",
+    "count": 1,
+    "example": "性状 受基因控制 基因"
+  },
+  {
+    "relation": "有益于",
+    "count": 1,
+    "example": "细菌 有益于 人类"
+  },
+  {
+    "relation": "模仿",
+    "count": 1,
+    "example": "薄壳建筑 模仿 蛋壳"
+  },
+  {
+    "relation": "制作",
+    "count": 6,
+    "example": "标本员 制作 昆虫标本"
+  },
+  {
+    "relation": "相通",
+    "count": 3,
+    "example": "气囊 相通 肺"
+  },
+  {
+    "relation": "提高",
+    "count": 3,
+    "example": "这项技术 提高 粮食安全水平"
+  },
+  {
+    "relation": "命名者",
+    "count": 1,
+    "example": "红腹锦鸡 命名者 林奈"
+  },
+  {
+    "relation": "提出",
+    "count": 1,
+    "example": "林奈 提出 双名法"
+  },
+  {
+    "relation": "始于",
+    "count": 1,
+    "example": "人类的个体发育 始于 受精卵"
+  },
+  {
+    "relation": "认可",
+    "count": 1,
+    "example": "国际病毒分类委员会 认可 病毒"
+  },
+  {
+    "relation": "由...发育而来",
+    "count": 4,
+    "example": "枝条 由...发育而来 芽"
+  },
+  {
+    "relation": "流向",
+    "count": 1,
+    "example": "血液 流向 肺部"
+  },
+  {
+    "relation": "运用",
+    "count": 3,
+    "example": "心理咨询师 运用 量表"
+  },
+  {
+    "relation": "栖息于",
+    "count": 3,
+    "example": "非洲象 栖息于 森林"
+  },
+  {
+    "relation": "发育成",
+    "count": 14,
+    "example": "受精卵 发育成 小鱼"
+  },
+  {
+    "relation": "散放",
+    "count": 1,
+    "example": "花药 散放 花粉"
+  },
+  {
+    "relation": "不含有",
+    "count": 4,
+    "example": "蛔虫 不含有 壳"
+  },
+  {
+    "relation": "阻止",
+    "count": 2,
+    "example": "戴口罩 阻止 疾病的传染"
+  },
+  {
+    "relation": "萌发成",
+    "count": 1,
+    "example": "芽孢 萌发成 细菌"
+  },
+  {
+    "relation": "存在",
+    "count": 1,
+    "example": "花生果实大小 存在 变异"
+  },
+  {
+    "relation": "相互作用",
+    "count": 1,
+    "example": "生命 相互作用 环境变化"
+  },
+  {
+    "relation": "感染",
+    "count": 11,
+    "example": "真菌 感染 蝙蝠蛾幼虫"
+  },
+  {
+    "relation": "仿照",
+    "count": 1,
+    "example": "蝇眼照相机 仿照 蝇的复眼"
+  },
+  {
+    "relation": "吸食",
+    "count": 1,
+    "example": "虫 吸食 食糜"
+  },
+  {
+    "relation": "导致",
+    "count": 24,
+    "example": "含氮、含磷物质排入海洋 导致 赤潮"
+  },
+  {
+    "relation": "撞击",
+    "count": 3,
+    "example": "小行星 撞击 地球"
+  },
+  {
+    "relation": "迁入",
+    "count": 4,
+    "example": "危物种 迁入 动物园"
+  },
+  {
+    "relation": "由",
+    "count": 13,
+    "example": "加粗生长 由 形成层细胞分裂和分化"
+  },
+  {
+    "relation": "哺育",
+    "count": 2,
+    "example": "雌性 哺育 幼崽"
+  },
+  {
+    "relation": "隶属于",
+    "count": 7,
+    "example": "狼 隶属于 犬属"
+  },
+  {
+    "relation": "缠绕",
+    "count": 1,
+    "example": "毛细血管 缠绕 肾小管"
+  },
+  {
+    "relation": "由...实现",
+    "count": 1,
+    "example": "幼根的生长 由...实现 细胞分裂"
+  },
+  {
+    "relation": "合成",
+    "count": 4,
+    "example": "细菌 合成 维生素"
+  },
+  {
+    "relation": "套在",
+    "count": 1,
+    "example": "肾小囊 套在 肾小球"
+  },
+  {
+    "relation": "由...结合形成",
+    "count": 1,
+    "example": "受精卵 由...结合形成 两性生殖细胞"
+  },
+  {
+    "relation": "危害",
+    "count": 4,
+    "example": "棉铃虫 危害 棉花"
+  },
+  {
+    "relation": "可能感染",
+    "count": 1,
+    "example": "人 可能感染 狂犬病病毒"
+  },
+  {
+    "relation": "抑制",
+    "count": 4,
+    "example": "青霉素 抑制 细菌细胞壁"
+  },
+  {
+    "relation": "不包含",
+    "count": 60,
+    "example": "动物细胞 不包含 细胞壁"
+  },
+  {
+    "relation": "扩散到",
+    "count": 1,
+    "example": "氧气 扩散到 大气"
+  },
+  {
+    "relation": "传播到",
+    "count": 2,
+    "example": "接种人痘 传播到 欧洲"
+  },
+  {
+    "relation": "构成",
+    "count": 136,
+    "example": "细胞 构成 生物"
+  },
+  {
+    "relation": "由...决定",
+    "count": 1,
+    "example": "行为 由...决定 遗传物质"
+  },
+  {
+    "relation": "毕业于",
+    "count": 1,
+    "example": "袁隆平先生 毕业于 西南农学院"
+  },
+  {
+    "relation": "推动",
+    "count": 1,
+    "example": "林巧稚 推动 中国妇女健康普查"
+  },
+  {
+    "relation": "列入",
+    "count": 2,
+    "example": "江南园林 列入 世界遗产名录"
+  },
+  {
+    "relation": "结合",
+    "count": 4,
+    "example": "卵细胞 结合 精子"
+  },
+  {
+    "relation": "培育出",
+    "count": 1,
+    "example": "袁隆平 培育出 杂交水稻新品种"
+  },
+  {
+    "relation": "钻出",
+    "count": 1,
+    "example": "白僵菌的菌丝 钻出 害虫"
+  },
+  {
+    "relation": "与...有亲缘关系最近",
+    "count": 1,
+    "example": "黑猩猩 与...有亲缘关系最近 人类"
+  },
+  {
+    "relation": "争食",
+    "count": 2,
+    "example": "野兔 争食 牧草"
+  },
+  {
+    "relation": "发育而来",
+    "count": 3,
+    "example": "果实 发育而来 子房"
+  },
+  {
+    "relation": "属于",
+    "count": 632,
+    "example": "生物 属于 生物学研究的对象"
+  },
+  {
+    "relation": "封存",
+    "count": 1,
+    "example": "工程技术手段 封存 二氧化碳"
+  },
+  {
+    "relation": "调节",
+    "count": 2,
+    "example": "人体排尿 调节 水的平衡"
+  },
+  {
+    "relation": "泵出",
+    "count": 1,
+    "example": "右心室 泵出 血液"
+  },
+  {
+    "relation": "由...排出",
+    "count": 1,
+    "example": "虫卵 由...排出 粪便"
+  },
+  {
+    "relation": "降低",
+    "count": 10,
+    "example": "蝗灾 降低 农作物产量"
+  },
+  {
+    "relation": "由构成",
+    "count": 1,
+    "example": "小肠绒毛 由构成 上皮细胞"
+  },
+  {
+    "relation": "发育成为",
+    "count": 4,
+    "example": "子房 发育成为 果实"
+  },
+  {
+    "relation": "作为",
+    "count": 1,
+    "example": "彩纸 作为 生活环境"
+  },
+  {
+    "relation": "捕杀",
+    "count": 2,
+    "example": "黑猩猩 捕杀 狒狒"
+  },
+  {
+    "relation": "决定",
+    "count": 8,
+    "example": "片段 决定 血型"
+  },
+  {
+    "relation": "被吸收",
+    "count": 3,
+    "example": "二氧化碳 被吸收 植物"
+  },
+  {
+    "relation": "破坏",
+    "count": 1,
+    "example": "食物 破坏 维生素"
+  },
+  {
+    "relation": "促进",
+    "count": 7,
+    "example": "显微镜制造技术的发展 促进 科学研究"
+  },
+  {
+    "relation": "保护",
+    "count": 5,
+    "example": "种皮 保护 胚"
+  },
+  {
+    "relation": "促进发育",
+    "count": 2,
+    "example": "雄激素 促进发育 罩丸"
+  },
+  {
+    "relation": "必须参加",
+    "count": 1,
+    "example": "兽医师 必须参加 全国执业兽医资格考试"
+  },
+  {
+    "relation": "吸收",
+    "count": 22,
+    "example": "植物 吸收 水"
+  },
+  {
+    "relation": "构建",
+    "count": 2,
+    "example": "贝类 构建 身体"
+  },
+  {
+    "relation": "减弱",
+    "count": 1,
+    "example": "剪去部分枝叶 减弱 蒸腾作用"
+  },
+  {
+    "relation": "由...组成",
+    "count": 4,
+    "example": "子实体 由...组成 菌柄"
+  },
+  {
+    "relation": "分为",
+    "count": 23,
+    "example": "细菌 分为 球菌"
+  },
+  {
+    "relation": "控制着",
+    "count": 3,
+    "example": "细胞核 控制着 生长"
+  },
+  {
+    "relation": "连接",
+    "count": 20,
+    "example": "胎盘 连接 胎儿"
+  },
+  {
+    "relation": "堆积形成",
+    "count": 1,
+    "example": "骨骼 堆积形成 珊瑚礁"
+  },
+  {
+    "relation": "收缩",
+    "count": 1,
+    "example": "骨骼肌 收缩 骨"
+  },
+  {
+    "relation": "由...造成",
+    "count": 1,
+    "example": "大坑 由...造成 小行星撞击"
+  },
+  {
+    "relation": "控制",
+    "count": 12,
+    "example": "细胞膜 控制 物质进出"
+  },
+  {
+    "relation": "清除",
+    "count": 1,
+    "example": "纤毛 清除 异物"
+  },
+  {
+    "relation": "分解",
+    "count": 7,
+    "example": "细菌和真菌 分解 动植物遗体"
+  },
+  {
+    "relation": "排出到",
+    "count": 1,
+    "example": "代谢废物 排出到 母体"
+  },
+  {
+    "relation": "分解成",
+    "count": 3,
+    "example": "细菌和真菌 分解成 二氧化碳"
+  },
+  {
+    "relation": "包围",
+    "count": 4,
+    "example": "细胞膜 包围 细胞质"
+  },
+  {
+    "relation": "发芽",
+    "count": 1,
+    "example": "松子 发芽 发芽"
+  },
+  {
+    "relation": "不能直接由",
+    "count": 1,
+    "example": "心肌 不能直接由 心腔中的血液"
+  },
+  {
+    "relation": "吃",
+    "count": 4,
+    "example": "非洲象 吃 香蕉"
+  },
+  {
+    "relation": "接触",
+    "count": 1,
+    "example": "盖玻片 接触 水滴"
+  },
+  {
+    "relation": "特化为",
+    "count": 1,
+    "example": "前肢 特化为 翼"
+  },
+  {
+    "relation": "植入",
+    "count": 1,
+    "example": "胚泡 植入 子宫内膜"
+  },
+  {
+    "relation": "测定",
+    "count": 2,
+    "example": "pH试纸 测定 酸度"
+  },
+  {
+    "relation": "钩挂",
+    "count": 1,
+    "example": "钩刺 钩挂 动物的皮毛"
+  },
+  {
+    "relation": "移动到",
+    "count": 1,
+    "example": "胚泡 移动到 子宫"
+  },
+  {
+    "relation": "转变为",
+    "count": 2,
+    "example": "石斑鱼幼体 转变为 雄鱼"
+  },
+  {
+    "relation": "促进生长",
+    "count": 1,
+    "example": "雌激素 促进生长 卵细胞"
+  },
+  {
+    "relation": "附着在",
+    "count": 1,
+    "example": "身体 附着在 水草"
+  },
+  {
+    "relation": "寄生在",
+    "count": 7,
+    "example": "虫 寄生在 人的小肠"
+  },
+  {
+    "relation": "动力来源于",
+    "count": 1,
+    "example": "血液循环 动力来源于 心脏"
+  },
+  {
+    "relation": "牵拉",
+    "count": 1,
+    "example": "骨骼肌 牵拉 骨"
+  },
+  {
+    "relation": "转化",
+    "count": 1,
+    "example": "肝 转化 无毒物质"
+  },
+  {
+    "relation": "含有措施",
+    "count": 4,
+    "example": "保护生物多样性 含有措施 建立自然保护区"
+  },
+  {
+    "relation": "当选为",
+    "count": 1,
+    "example": "袁隆平院士 当选为 美国科学院外籍院士"
+  },
+  {
+    "relation": "制造",
+    "count": 6,
+    "example": "植物 制造 葡萄糖"
+  },
+  {
+    "relation": "产生于",
+    "count": 3,
+    "example": "氧气 产生于 叶绿体"
+  },
+  {
+    "relation": "以...为食",
+    "count": 3,
+    "example": "动物 以...为食 植物"
+  },
+  {
+    "relation": "排出",
+    "count": 12,
+    "example": "生物 排出 废物"
+  },
+  {
+    "relation": "长出",
+    "count": 3,
+    "example": "花粉 长出 花粉管"
+  },
+  {
+    "relation": "诱导出",
+    "count": 1,
+    "example": "植物组织培养技术 诱导出 试管苗"
+  },
+  {
+    "relation": "攻击",
+    "count": 1,
+    "example": "狂犬病病毒 攻击 神经系统"
+  },
+  {
+    "relation": "生产",
+    "count": 6,
+    "example": "醋酸菌 生产 醋"
+  },
+  {
+    "relation": "振动",
+    "count": 1,
+    "example": "气流 振动 声带"
+  },
+  {
+    "relation": "依赖于",
+    "count": 3,
+    "example": "繁殖过程 依赖于 水环境"
+  },
+  {
+    "relation": "寄生于",
+    "count": 4,
+    "example": "形动物 寄生于 人"
+  },
+  {
+    "relation": "毒杀",
+    "count": 4,
+    "example": "苏云金杆菌 毒杀 松毛虫"
+  },
+  {
+    "relation": "由...制造",
+    "count": 1,
+    "example": "最早的显微镜 由...制造 荷兰眼镜商"
+  },
+  {
+    "relation": "受到",
+    "count": 1,
+    "example": "地球 受到 陨石"
+  },
+  {
+    "relation": "与豹的亲缘关系比大熊猫的远",
+    "count": 1,
+    "example": "荒漠猫 与豹的亲缘关系比大熊猫的远 豹和大熊猫"
+  },
+  {
+    "relation": "简称",
+    "count": 1,
+    "example": "非处方药 简称 OTC"
+  },
+  {
+    "relation": "使用",
+    "count": 3,
+    "example": "电子显微镜 使用 电子束"
+  },
+  {
+    "relation": "用于制作",
+    "count": 2,
+    "example": "酵母菌菌种 用于制作 馒头"
+  },
+  {
+    "relation": "需要",
+    "count": 44,
+    "example": "玻片标本 需要 载玻片"
+  },
+  {
+    "relation": "出现",
+    "count": 2,
+    "example": "男孩 出现 遗精"
+  },
+  {
+    "relation": "流入",
+    "count": 5,
+    "example": "胰液 流入 十二指肠"
+  },
+  {
+    "relation": "配合",
+    "count": 1,
+    "example": "肌肉 配合 刚毛"
+  },
+  {
+    "relation": "由...创建",
+    "count": 1,
+    "example": "细胞学说 由...创建 施莱登和施旺"
+  },
+  {
+    "relation": "回收利用",
+    "count": 1,
+    "example": "这项技术 回收利用 二氧化碳"
+  },
+  {
+    "relation": "附着",
+    "count": 2,
+    "example": "龙骨突 附着 胸肌"
+  },
+  {
+    "relation": "支撑",
+    "count": 2,
+    "example": "脊柱 支撑 身体"
+  },
+  {
+    "relation": "能传播于",
+    "count": 8,
+    "example": "狂犬病病毒 能传播于 狼"
+  },
+  {
+    "relation": "源自",
+    "count": 2,
+    "example": "水稻 源自 我国"
+  },
+  {
+    "relation": "有直接的进化联系",
+    "count": 1,
+    "example": "李氏果 有直接的进化联系 现存被子植物"
+  },
+  {
+    "relation": "释放",
+    "count": 9,
+    "example": "植物的光合作用 释放 氧气"
+  },
+  {
+    "relation": "吞噬",
+    "count": 1,
+    "example": "白细胞 吞噬 病菌"
+  },
+  {
+    "relation": "来源于",
+    "count": 61,
+    "example": "米饭 来源于 杂交水稻"
+  },
+  {
+    "relation": "固定在",
+    "count": 1,
+    "example": "锥形瓶 固定在 铁架台"
+  },
+  {
+    "relation": "转变",
+    "count": 1,
+    "example": "动脉血 转变 静脉血"
+  },
+  {
+    "relation": "牵动",
+    "count": 1,
+    "example": "肌肉 牵动 骨"
+  },
+  {
+    "relation": "引发",
+    "count": 6,
+    "example": "蓝细菌 引发 赤潮"
+  },
+  {
+    "relation": "传播于",
+    "count": 2,
+    "example": "黏液瘤病毒 传播于 棉尾兔"
+  },
+  {
+    "relation": "吸引",
+    "count": 3,
+    "example": "吸水纸 吸引 碘液"
+  },
+  {
+    "relation": "由...建立",
+    "count": 1,
+    "example": "双名法 由...建立 林奈"
+  },
+  {
+    "relation": "孵化成",
+    "count": 1,
+    "example": "虫卵 孵化成 幼虫"
+  },
+  {
+    "relation": "进行气体交换",
+    "count": 1,
+    "example": "肺 进行气体交换 血液"
+  },
+  {
+    "relation": "主要特征",
+    "count": 1,
+    "example": "鱼 主要特征 生活在水中"
+  },
+  {
+    "relation": "需要通过",
+    "count": 1,
+    "example": "物质交换 需要通过 组织液"
+  },
+  {
+    "relation": "存在于",
+    "count": 13,
+    "example": "叶绿体 存在于 细胞质"
+  },
+  {
+    "relation": "代表",
+    "count": 4,
+    "example": "黑围棋子 代表 含Y染色体的精子"
+  },
+  {
+    "relation": "分泌",
+    "count": 28,
+    "example": "珊瑚虫 分泌 外壳"
+  },
+  {
+    "relation": "寄生",
+    "count": 7,
+    "example": "单细胞生物 寄生 其他生物体"
+  },
+  {
+    "relation": "被用作",
+    "count": 2,
+    "example": "细菌 被用作 生物杀虫剂"
+  },
+  {
+    "relation": "别名",
+    "count": 8,
+    "example": "光叶子花 别名 三角梅"
+  },
+  {
+    "relation": "杀死",
+    "count": 4,
+    "example": "抗生素 杀死 普通细菌"
+  },
+  {
+    "relation": "懂得",
+    "count": 3,
+    "example": "营养师 懂得 医学知识"
+  },
+  {
+    "relation": "包绕",
+    "count": 1,
+    "example": "毛细血管 包绕 肾小管"
+  },
+  {
+    "relation": "消耗",
+    "count": 8,
+    "example": "蜡烛燃烧 消耗 氧气"
+  },
+  {
+    "relation": "属性",
+    "count": 8,
+    "example": "寄生虫 属性 消化器官很简单"
+  },
+  {
+    "relation": "起源于",
+    "count": 1,
+    "example": "人类 起源于 森林古猿"
+  },
+  {
+    "relation": "移入",
+    "count": 1,
+    "example": "濒危动物 移入 动物园"
+  },
+  {
+    "relation": "下接",
+    "count": 1,
+    "example": "肾小囊 下接 肾小管"
+  },
+  {
+    "relation": "推出",
+    "count": 1,
+    "example": "园艺师 推出 园艺植物新品种"
+  },
+  {
+    "relation": "用于生产",
+    "count": 1,
+    "example": "蛭素 用于生产 抗血栓药物"
+  },
+  {
+    "relation": "了解",
+    "count": 2,
+    "example": "营养师 了解 患者的病情"
+  },
+  {
+    "relation": "由...形成",
+    "count": 2,
+    "example": "行为 由...形成 后天生活经验"
+  },
+  {
+    "relation": "进入",
+    "count": 19,
+    "example": "癌细胞 进入 组织"
+  },
+  {
+    "relation": "侵犯",
+    "count": 1,
+    "example": "HIV 侵犯 免疫系统"
+  },
+  {
+    "relation": "用于模拟练习",
+    "count": 2,
+    "example": "急救模型 用于模拟练习 人工呼吸"
+  },
+  {
+    "relation": "命名人",
+    "count": 2,
+    "example": "银杉 命名人 陈焕镛"
+  },
+  {
+    "relation": "移动",
+    "count": 1,
+    "example": "移动手轮 移动 玻片标本"
+  },
+  {
+    "relation": "成为",
+    "count": 2,
+    "example": "郑作新 成为 奠基人"
+  },
+  {
+    "relation": "调控",
+    "count": 2,
+    "example": "基因 调控 叶球大小"
+  },
+  {
+    "relation": "维持",
+    "count": 3,
+    "example": "孕激素 维持 妊娠"
+  },
+  {
+    "relation": "解释",
+    "count": 1,
+    "example": "自然选择学说 解释 进化过程"
+  },
+  {
+    "relation": "用于培养",
+    "count": 2,
+    "example": "培养基 用于培养 细菌"
+  },
+  {
+    "relation": "叮咬",
+    "count": 3,
+    "example": "蚊 叮咬 人"
+  },
+  {
+    "relation": "继承",
+    "count": 1,
+    "example": "子女 继承 基因"
+  },
+  {
+    "relation": "依靠",
+    "count": 3,
+    "example": "肺 依靠 胸廓的扩大和缩小"
+  },
+  {
+    "relation": "针对",
+    "count": 1,
+    "example": "免疫力 针对 天花病毒"
+  },
+  {
+    "relation": "招募",
+    "count": 1,
+    "example": "血小板 招募 凝血物质"
+  },
+  {
+    "relation": "支持",
+    "count": 2,
+    "example": "证据 支持 假说A"
+  },
+  {
+    "relation": "再生为",
+    "count": 1,
+    "example": "涡虫 再生为 完整个体"
+  },
+  {
+    "relation": "改变",
+    "count": 1,
+    "example": "园艺师 改变 植物"
+  },
+  {
+    "relation": "天敌",
+    "count": 3,
+    "example": "赤眼蜂 天敌 玉米"
+  },
+  {
+    "relation": "凝结成",
+    "count": 1,
+    "example": "水蒸气 凝结成 雨"
+  },
+  {
+    "relation": "共生",
+    "count": 4,
+    "example": "珊瑚虫 共生 藻类"
+  },
+  {
+    "relation": "开辟",
+    "count": 2,
+    "example": "无土栽培技术 开辟 工厂化"
+  },
+  {
+    "relation": "输送",
+    "count": 2,
+    "example": "卵巢 输送 精子"
+  },
+  {
+    "relation": "满足",
+    "count": 2,
+    "example": "蜥蜴肺 满足 蜥蜴氧气需求"
+  },
+  {
+    "relation": "分布于",
+    "count": 14,
+    "example": "石斑鱼 分布于 热带、亚热带暖水海域"
+  },
+  {
+    "relation": "由...构成",
+    "count": 70,
+    "example": "珊瑚礁 由...构成 珊瑚"
+  },
+  {
+    "relation": "发育始于",
+    "count": 2,
+    "example": "中中 发育始于 人工融合细胞"
+  },
+  {
+    "relation": "以作为砧木",
+    "count": 1,
+    "example": "柿树 以作为砧木 黑枣"
+  },
+  {
+    "relation": "防止",
+    "count": 4,
+    "example": "外骨骼 防止 伤害"
+  },
+  {
+    "relation": "经历",
+    "count": 5,
+    "example": "被子植物的一生 经历 种子萌发"
+  },
+  {
+    "relation": "包含",
+    "count": 69,
+    "example": "克隆猴培育过程 包含 人工激活细胞的发育程序"
+  },
+  {
+    "relation": "生长于",
+    "count": 2,
+    "example": "裸子植物 生长于 干旱地区"
+  },
+  {
+    "relation": "吮吸",
+    "count": 1,
+    "example": "小动物 吮吸 乳汁"
+  },
+  {
+    "relation": "消灭",
+    "count": 1,
+    "example": "皮肤 消灭 链球菌"
+  },
+  {
+    "relation": "捕获",
+    "count": 1,
+    "example": "工程技术手段 捕获 二氧化碳"
+  },
+  {
+    "relation": "治疗",
+    "count": 2,
+    "example": "噬菌体 治疗 感染"
+  },
+  {
+    "relation": "获取",
+    "count": 3,
+    "example": "藻类 获取 营养物质"
+  },
+  {
+    "relation": "附着有",
+    "count": 1,
+    "example": "脊柱 附着有 肌肉"
+  },
+  {
+    "relation": "表示",
+    "count": 1,
+    "example": "柱形图 表示 测量的结果"
+  },
+  {
+    "relation": "不属于",
+    "count": 5,
+    "example": "藻类 不属于 植物"
+  },
+  {
+    "relation": "产出",
+    "count": 1,
+    "example": "母体 产出 人类新个体"
+  },
+  {
+    "relation": "吸附",
+    "count": 2,
+    "example": "黏液 吸附 细菌"
+  },
+  {
+    "relation": "分裂出",
+    "count": 1,
+    "example": "形成层细胞 分裂出 新细胞"
+  },
+  {
+    "relation": "消化分解",
+    "count": 2,
+    "example": "吞噬细胞 消化分解 细菌"
+  },
+  {
+    "relation": "包裹",
+    "count": 5,
+    "example": "湿纱布 包裹 鳃盖"
+  },
+  {
+    "relation": "散失",
+    "count": 2,
+    "example": "植物体 散失 水"
+  },
+  {
+    "relation": "预防",
+    "count": 9,
+    "example": "膳食纤维 预防 糖尿病"
+  },
+  {
+    "relation": "重叠",
+    "count": 1,
+    "example": "羽毛 重叠 羽毛"
+  },
+  {
+    "relation": "排除",
+    "count": 1,
+    "example": "实验结果 排除 偶然因素的影响"
+  },
+  {
+    "relation": "由...杂交而来",
+    "count": 2,
+    "example": "杂交稻新品种 由...杂交而来 野生水稻"
+  },
+  {
+    "relation": "传给",
+    "count": 1,
+    "example": "隐性基因a 传给 后代"
+  },
+  {
+    "relation": "服务于",
+    "count": 3,
+    "example": "标本员 服务于 学校"
+  },
+  {
+    "relation": "相连",
+    "count": 5,
+    "example": "左心室 相连 主动脉"
+  },
+  {
+    "relation": "含有步骤",
+    "count": 2,
+    "example": "鸡卵的人工管理 含有步骤 翻蛋"
+  },
+  {
+    "relation": "接近",
+    "count": 1,
+    "example": "玻片标本 接近 物镜"
+  },
+  {
+    "relation": "迁出",
+    "count": 1,
+    "example": "濒危动物 迁出 原地"
+  },
+  {
+    "relation": "分隔",
+    "count": 1,
+    "example": "厚厚的肌肉壁 分隔 心脏"
+  },
+  {
+    "relation": "取代",
+    "count": 1,
+    "example": "牛痘接种法 取代 人痘接种法"
+  },
+  {
+    "relation": "携带",
+    "count": 1,
+    "example": "病毒 携带 基因"
+  },
+  {
+    "relation": "俗称",
+    "count": 4,
+    "example": "红腹锦鸡 俗称 金鸡"
+  },
+  {
+    "relation": "留下",
+    "count": 1,
+    "example": "抗生素 留下 耐药菌"
+  },
+  {
+    "relation": "喷出",
+    "count": 3,
+    "example": "咳嗽 喷出 液滴"
+  },
+  {
+    "relation": "制订了",
+    "count": 1,
+    "example": "中国营养学会 制订了 《中国居民膳食指南（2022）》"
+  },
+  {
+    "relation": "相同",
+    "count": 2,
+    "example": "猪心脏的结构 相同 人心脏的结构"
+  },
+  {
+    "relation": "摄食",
+    "count": 1,
+    "example": "动物 摄食 植物"
+  },
+  {
+    "relation": "具有",
+    "count": 17,
+    "example": "裸子植物 具有 裸露种子"
+  },
+  {
+    "relation": "选育",
+    "count": 1,
+    "example": "科学研究 选育 抗旱节水的作物品种"
+  },
+  {
+    "relation": "含有",
+    "count": 1067,
+    "example": "镇海林蛙 含有 细胞核"
+  },
+  {
+    "relation": "加工",
+    "count": 1,
+    "example": "生产线 加工 产品"
+  },
+  {
+    "relation": "可能来源于",
+    "count": 1,
+    "example": "原始生命 可能来源于 其他星球"
+  },
+  {
+    "relation": "由...产生",
+    "count": 2,
+    "example": "抗生素 由...产生 细菌"
+  },
+  {
+    "relation": "汲取",
+    "count": 1,
+    "example": "蜜蜂 汲取 花蜜"
+  },
+  {
+    "relation": "包括",
+    "count": 56,
+    "example": "动物体的结构层次 包括 细胞"
+  },
+  {
+    "relation": "需要吸收",
+    "count": 1,
+    "example": "水 需要吸收 4.2焦耳的热量"
+  },
+  {
+    "relation": "减少",
+    "count": 2,
+    "example": "这项技术 减少 碳排放"
+  },
+  {
+    "relation": "经过",
+    "count": 2,
+    "example": "食物 经过 咽"
+  },
+  {
+    "relation": "接生",
+    "count": 1,
+    "example": "林巧稚 接生 婴儿"
+  },
+  {
+    "relation": "形成",
+    "count": 53,
+    "example": "碳酸钙 形成 骨骼"
+  },
+  {
+    "relation": "应用",
+    "count": 2,
+    "example": "乳酸菌 应用 酸奶发酵"
+  },
+  {
+    "relation": "维护",
+    "count": 1,
+    "example": "膳食纤维 维护 心脑血管健康"
+  },
+  {
+    "relation": "要求",
+    "count": 1,
+    "example": "细菌 要求 无氧条件"
+  },
+  {
+    "relation": "造成",
+    "count": 4,
+    "example": "蝗灾 造成 绝收"
+  }
+]

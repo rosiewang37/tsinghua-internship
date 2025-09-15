@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <title>三元组信息展示</title>
+    <style>
+      body {
+        font-family: "Microsoft YaHei", sans-serif;
+        margin: 40px;
+        background-color: #f9f9f9;
+      }
+
+      h1 {
+        text-align: center;
+        color: #333;
+      }
+
+      .counts {
+        text-align: center;
+        margin-bottom: 30px;
+        font-size: 18px;
+      }
+
+      .tables {
+        display: flex;
+        justify-content: space-between;
+        gap: 40px;
+      }
+
+      table {
+        width: 100%;
+        border-collapse: collapse;
+        background-color: white;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+      }
+
+      th, td {
+        padding: 10px 15px;
+        border: 1px solid #ccc;
+        text-align: left;
+      }
+
+      th {
+        background-color: #eaeaea;
+      }
+
+      caption {
+        caption-side: top;
+        font-weight: bold;
+        font-size: 18px;
+        padding: 10px;
+        text-align: left;
+      }
+
+      #relationTable th:nth-child(1),
+      #relationTable td:nth-child(1),
+      #attributeTable th:nth-child(1),
+      #attributeTable td:nth-child(1) {
+        width: 25%;
+      }
+
+      #relationTable th:nth-child(2),
+      #relationTable td:nth-child(2),
+      #attributeTable th:nth-child(2),
+      #attributeTable td:nth-child(2) {
+        width: 18%;
+      }
+      
+      .table-wrapper {
+        width: 50%;
+        display: flex;
+        flex-direction: column;
+        align-items: stretch;
+      }
+
+      .sort-arrow {
+        font-size: 14px;
+        margin-left: 5px;
+        cursor: pointer;
+        color: #8f8f8f;
+        user-select: none;
+      }
+
+      .pagination {
+        text-align: center;
+        margin-top: 10px;
+      }
+
+      .pagination button {
+        margin: 0 5px;
+        padding: 5px 10px;
+        font-size: 14px;
+        cursor: pointer;
+      }
+
+      button:disabled {
+        opacity: 0.5;
+        cursor: not-allowed;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>初中生物教程三元组信息</h1>
+    <div class="counts">
+      <p>关系三元组数量: <span id="relationCount">加载中...</span></p>
+      <p>属性三元组数量: <span id="attributeCount">加载中...</span></p>
+      <p>总三元组数量: <span id="totalCount">加载中...</span></p>
+    </div>
+
+    <div class="tables">
+      <!-- Relation Table Container -->
+      <div class="table-wrapper">
+        <table id="relationTable">
+          <caption>关系三元组</caption>
+          <thead>
+            <tr>
+              <th>关系（<span id="uniqueRelationCount">加载中...</span>个）</th>
+              <th>
+                出现数量
+                <span id="relationArrow" class="sort-arrow" onclick="sortRelationTable()">▼</span>
+              </th>
+              <th>例子</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+        <div class="pagination">
+          <button id="prevRelationBtn" onclick="prevRelationPage()">上一页</button>
+          <span id="relationPageInfo"></span>
+          <button id="nextRelationBtn" onclick="nextRelationPage()">下一页</button>
+        </div>
+      </div>
+
+      <!-- Attribute Table Container -->
+      <div class="table-wrapper">
+        <table id="attributeTable">
+          <caption>属性三元组</caption>
+          <thead>
+            <tr>
+              <th>属性（<span id="uniqueAttributeCount">加载中...</span>个）</th>
+              <th>
+                出现数量
+                <span id="attributeArrow" class="sort-arrow" onclick="sortAttributeTable()">▼</span>
+              </th>
+              <th>例子</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+        <div class="pagination">
+          <button id="prevAttributeBtn" onclick="prevAttributePage()">上一页</button>
+          <span id="attributePageInfo"></span>
+          <button id="nextAttributeBtn" onclick="nextAttributePage()">下一页</button>
+        </div>
+      </div>
+    </div>
+
+
+    <script>
+      let relationData = [];
+      let attributeData = [];
+      let relationSortAsc = false;
+      let attributeSortAsc = false;
+      let relationPage = 0;
+      let attributePage = 0;
+      const PAGE_SIZE = 20;
+
+      fetch("outputs/counts.json")
+        .then(res => res.json())
+        .then(data => {
+          document.getElementById("relationCount").innerHTML = data.relationCount;
+          document.getElementById("attributeCount").innerHTML = data.attributeCount;
+          document.getElementById("totalCount").innerHTML = data.totalCount;
+          document.getElementById("uniqueRelationCount").innerHTML = data.uniqueRelationCount;
+          document.getElementById("uniqueAttributeCount").innerHTML = data.uniqueAttributeCount;
+        });
+
+      fetch("outputs/relations_with_examples_and_counts.json")
+        .then(res => res.json())
+        .then(data => {
+          relationData = data;
+          renderRelationTable();
+        });
+
+      fetch("outputs/attributes_with_examples_and_counts.json")
+        .then(res => res.json())
+        .then(data => {
+          attributeData = data;
+          renderAttributeTable();
+        });
+
+      function renderRelationTable() {
+        const tbody = document.querySelector("#relationTable tbody");
+        tbody.innerHTML = "";
+        const totalPages = Math.ceil(relationData.length / PAGE_SIZE);
+        const start = relationPage * PAGE_SIZE;
+        const end = start + PAGE_SIZE;
+
+        relationData.slice(start, end).forEach(item => {
+          const row = document.createElement("tr");
+          row.innerHTML = `<td>${item.relation}</td><td>${item.count}</td><td>${item.example}</td>`;
+          tbody.appendChild(row);
+        });
+
+        document.getElementById("relationPageInfo").innerText = `第 ${relationPage + 1} 页 / 共 ${totalPages} 页`;
+        document.getElementById("prevRelationBtn").disabled = relationPage === 0;
+        document.getElementById("nextRelationBtn").disabled = relationPage >= totalPages - 1;
+      }
+
+      function renderAttributeTable() {
+        const tbody = document.querySelector("#attributeTable tbody");
+        tbody.innerHTML = "";
+        const totalPages = Math.ceil(attributeData.length / PAGE_SIZE);
+        const start = attributePage * PAGE_SIZE;
+        const end = start + PAGE_SIZE;
+
+        attributeData.slice(start, end).forEach(item => {
+          const row = document.createElement("tr");
+          row.innerHTML = `<td>${item.attribute}</td><td>${item.count}</td><td>${item.example}</td>`;
+          tbody.appendChild(row);
+        });
+
+        document.getElementById("attributePageInfo").innerText = `第 ${attributePage + 1} 页 / 共 ${totalPages} 页`;
+        document.getElementById("prevAttributeBtn").disabled = attributePage === 0;
+        document.getElementById("nextAttributeBtn").disabled = attributePage >= totalPages - 1;
+      }
+
+
+      function sortRelationTable() {
+        relationSortAsc = !relationSortAsc;
+        relationPage = 0;
+        relationData.sort((a, b) => relationSortAsc ? a.count - b.count : b.count - a.count);
+        document.getElementById("relationArrow").innerHTML = relationSortAsc ? "▲" : "▼";
+        renderRelationTable();
+      }
+
+      function sortAttributeTable() {
+        attributeSortAsc = !attributeSortAsc;
+        attributePage = 0;
+        attributeData.sort((a, b) => attributeSortAsc ? a.count - b.count : b.count - a.count);
+        document.getElementById("attributeArrow").innerHTML = attributeSortAsc ? "▲" : "▼";
+        renderAttributeTable();
+      }
+
+      function nextRelationPage() {
+        if ((relationPage + 1) * PAGE_SIZE < relationData.length) {
+          relationPage++;
+          renderRelationTable();
+        }
+      }
+
+      function prevRelationPage() {
+        if (relationPage > 0) {
+          relationPage--;
+          renderRelationTable();
+        }
+      }
+
+      function nextAttributePage() {
+        if ((attributePage + 1) * PAGE_SIZE < attributeData.length) {
+          attributePage++;
+          renderAttributeTable();
+        }
+      }
+
+      function prevAttributePage() {
+        if (attributePage > 0) {
+          attributePage--;
+          renderAttributeTable();
+        }
+      }
+    </script>
+  </body>
+</html>
