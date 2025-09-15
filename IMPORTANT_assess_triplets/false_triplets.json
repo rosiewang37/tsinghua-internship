@@ -1,0 +1,42 @@
+[
+  {
+    "triple": [
+      "郊狠",
+      "身体",
+      "较长"
+    ],
+    "is_valid": false
+  },
+  {
+    "triple": [
+      "郊狠",
+      "眶间部",
+      "显著隆起"
+    ],
+    "is_valid": false
+  },
+  {
+    "triple": [
+      "狠",
+      "身体",
+      "较长"
+    ],
+    "is_valid": false
+  },
+  {
+    "triple": [
+      "这些生物",
+      "功能",
+      "运动"
+    ],
+    "is_valid": false
+  },
+  {
+    "triple": [
+      "科学名称",
+      "定义",
+      "学名"
+    ],
+    "is_valid": false
+  }
+]

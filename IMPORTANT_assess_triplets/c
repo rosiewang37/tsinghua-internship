@@ -1,0 +1,20 @@
+{'triple': ['饭米', '含有', '淀粉'], 'is_valid': True, 'reason': "主语'饭米'、谓语'含有'、宾语'淀粉'均明确，语义通顺。"}
+{'triple': ['面条', '含有', '淀粉'], 'is_valid': True, 'reason': "主语'面条'、谓语'含有'、宾语'淀粉'均明确，语义通顺。"}
+{'triple': ['面包', '含有', '淀粉'], 'is_valid': True, 'reason': "主语'面包'，谓语'含有'，宾语'淀粉'均明确，语义通顺。"}
+{'triple': ['淀粉', '属于', '工业原料'], 'is_valid': True, 'reason': "主语'淀粉'，谓语'属于'，宾语'工业原料'均明确，语义通顺。"}
+{'triple': ['淀粉', '应用于', '造纸业'], 'is_valid': True, 'reason': "主语'淀粉'，谓语'应用于'，宾语'造纸业'均明确，语义通顺。"}
+{'triple': ['淀粉', '应用于', '纺织业'], 'is_valid': True, 'reason': "主语'淀粉'，谓语'应用于'，宾语'纺织业'均明确，语义通顺。"}
+{'triple': ['淀粉', '应用于', '食品加工业'], 'is_valid': True, 'reason': "主语'淀粉'，谓语'应用于'，宾语'食品加工业'均明确，语义通顺。"}
+{'triple': ['淀粉', '以...为原料', '二氧化碳'], 'is_valid': False, 'reason': "主语和宾语的逻辑关系不明确，'淀粉'作为原料通常不会直接与'二氧化碳'构成转换关系。"}
+{'triple': ['呼吸作用', '分解', '有机物'], 'is_valid': True, 'reason': "主语'呼吸作用'，谓语'分解'，宾语'有机物'均明确，语义通顺。"}
+Error during query: Connection error.
+{'triple': ['呼吸作用', '释放', '能量'], 'is_valid': False, 'reason': '无效输出: '}
+Error during query: Connection error.
+{'triple': ['甲瓶', '含有', '萌发的种子'], 'is_valid': False, 'reason': '无效输出: '}
+Error during query: Connection error.
+{'triple': ['乙瓶', '含有', '煮熟并晾凉的种子'], 'is_valid': False, 'reason': '无效输出: '}
+Error during query: Connection error.
+{'triple': ['甲瓶', '含有', '温度计'], 'is_valid': False, 'reason': '无效输出: '}
+{'triple': ['乙瓶', '含有', '温度计'], 'is_valid': True, 'reason': "主语'乙瓶'、谓语'含有'、宾语'温度计'均明确，语义通顺。"}
+{'triple': ['有机物', '构成', '植物体'], 'is_valid': True, 'reason': "主语'有机物'，谓语'构成'，宾语'植物体'，三者之间的关系明确且语义通顺。"}
+{'triple': ['有机物', '释放', '能量'], 'is_valid': False, 'reason': '无效输出: "<Is_valid": true, "reason": "主语\'有机物\'，谓语\'释放\'，宾语\'能量\'在语义上是 通顺的，三元组的结构完整且明确。">'}
